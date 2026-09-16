@@ -1,0 +1,179 @@
+{
+  "version": 3,
+  "date_published": "2026-09-10",
+  "netlify_site": "zingy-valkyrie-475e73",
+  "url": "https://zingy-valkyrie-475e73.netlify.app",
+  "folder": "v3-2026-09-10-zingy-valkyrie-475e73",
+  "title": "OpenEXA \u2014 Thousands of AI agents. One lifecycle.",
+  "headline": "Thousands of agents. One lifecycle.",
+  "pages": [
+    "404.html",
+    "access.html",
+    "evidence.html",
+    "index.html",
+    "insights.html",
+    "lifecycles.html",
+    "platform.html",
+    "trust.html"
+  ],
+  "file_count": 22,
+  "total_bytes": 623775,
+  "links_restored": {
+    "index.html": 33,
+    "platform.html": 24,
+    "lifecycles.html": 25,
+    "evidence.html": 27,
+    "trust.html": 24,
+    "insights.html": 23,
+    "access.html": 22,
+    "404.html": 24
+  },
+  "redirects": {},
+  "server_404": [
+    "/_headers",
+    "/_redirects",
+    "/about.html",
+    "/agents.html",
+    "/assets/js/evidence.html",
+    "/assets/js/index.html",
+    "/careers.html",
+    "/company.html",
+    "/contact.html",
+    "/economics.html",
+    "/favicon.ico",
+    "/favicon.svg",
+    "/governance.html",
+    "/humans.txt",
+    "/investors.html",
+    "/legal.html",
+    "/manifest.json",
+    "/privacy.html",
+    "/product.html",
+    "/proof.html",
+    "/research.html",
+    "/roadmap.html",
+    "/swarm.html",
+    "/team.html",
+    "/technology.html",
+    "/terms.html"
+  ],
+  "unresolved_references": [],
+  "external_hosts": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "sentiment.openexa.com",
+    "www.openexa.com"
+  ],
+  "files": {
+    "index.html": {
+      "bytes": 34926,
+      "sha256": "0f1fda71335b46e173215e05fd6d9fc386e8acf8c0a35441773e78078bce004a",
+      "content_type": "text/html"
+    },
+    "sitemap.xml": {
+      "bytes": 1122,
+      "sha256": "f8456c9c2a63ed9c358d8fd14b9dcfbb008b30fe0ee6916159a74ead4a616f8a",
+      "content_type": "application/xml"
+    },
+    "robots.txt": {
+      "bytes": 69,
+      "sha256": "79650137339e3b53a9f01e46cd5ee5a91367412f35d5a14497ced0dfc4ab3471",
+      "content_type": "text/plain"
+    },
+    "site.webmanifest": {
+      "bytes": 398,
+      "sha256": "aad2d26fe0f879860dae81871165df62551753c06ce27cbdef723507fac61e57",
+      "content_type": "application/octet-stream"
+    },
+    "README.md": {
+      "bytes": 8823,
+      "sha256": "4dce4263dfd92faa1252fe9444b2a0f3da1e4ba22da24a6976f7746c9ef65d19",
+      "content_type": "text/markdown"
+    },
+    "platform.html": {
+      "bytes": 25981,
+      "sha256": "b777fe7481ab6c22f889f0e774dd60880acf62f25da7db972d16132839962310",
+      "content_type": "text/html"
+    },
+    "lifecycles.html": {
+      "bytes": 21851,
+      "sha256": "0231ecda492b213db242033b7f47cd3de53ad0ff4a33bcc1024b71baeb7cd1f5",
+      "content_type": "text/html"
+    },
+    "evidence.html": {
+      "bytes": 17095,
+      "sha256": "0d03e13bd52c6c513c90f272eb1e669ee0b3eae5f3e3dce99e65caa304669eaa",
+      "content_type": "text/html"
+    },
+    "trust.html": {
+      "bytes": 18399,
+      "sha256": "92182b43797b94b18808eda093e29cc3f776894e9f1bdcf95e1e0776978f4898",
+      "content_type": "text/html"
+    },
+    "insights.html": {
+      "bytes": 18249,
+      "sha256": "3c7f1b0dd37174fb1f2d29c57dc78114a7e871da90c54e983e7571f52a952fd7",
+      "content_type": "text/html"
+    },
+    "access.html": {
+      "bytes": 12825,
+      "sha256": "50898b8ca76da5132300523581a29ae0b1576e7961bef4891d215361dc6757a5",
+      "content_type": "text/html"
+    },
+    "404.html": {
+      "bytes": 4885,
+      "sha256": "8ce42617ab90af4c01b4bd8c1ca855055ee282186add583d6b178444fe239ad2",
+      "content_type": "text/html"
+    },
+    "assets/img/og.png": {
+      "bytes": 251514,
+      "sha256": "35dad267d5a01a3618d80740f9e0086cb6f18493862ed06943708129e07ff264",
+      "content_type": "image/png"
+    },
+    "assets/img/apple-touch-icon.png": {
+      "bytes": 17572,
+      "sha256": "ff2b4a4d5d3666e09d4539c0db63fe88bd01cef90f5eabbbca1afc8bf14ea1fd",
+      "content_type": "image/png"
+    },
+    "assets/img/favicon.svg": {
+      "bytes": 4389,
+      "sha256": "2a9c3b072ce17fb60c7ae5aaacff33f7afec312e9f5f925ac82b2dd591f0b093",
+      "content_type": "image/svg+xml"
+    },
+    "assets/css/site.css": {
+      "bytes": 70051,
+      "sha256": "7fdf4c948e2c99b837fffcb16c440dba7a67bb9d586f0ae41fd626e07083d09f",
+      "content_type": "text/css"
+    },
+    "assets/js/story.js": {
+      "bytes": 27092,
+      "sha256": "4ec7175862247ac251c4b540f33f5812621eeb55a24f80feac27461d0a9f6c4c",
+      "content_type": "application/javascript"
+    },
+    "assets/js/gap.js": {
+      "bytes": 12544,
+      "sha256": "1ec50fe1e7d5836c0985f739ba7c56b9c08c9c2d8f52276f8244706d16fcd10e",
+      "content_type": "application/javascript"
+    },
+    "assets/js/site.js": {
+      "bytes": 23941,
+      "sha256": "cbfa83893cdd7c18f1653846381e67613c36e51bb85e6923b3456cf751dcb052",
+      "content_type": "application/javascript"
+    },
+    "assets/img/icon-192.png": {
+      "bytes": 19225,
+      "sha256": "04810a7589073e1619154b1e20e91c5c70e0823f14001d33086cb2f736863152",
+      "content_type": "image/png"
+    },
+    "assets/img/icon-512.png": {
+      "bytes": 28430,
+      "sha256": "6c7acfedfc4b5b10bf1cb9afa384be7f72fcb82a67df11123f889c8e9c161df6",
+      "content_type": "image/png"
+    },
+    "assets/img/globe.svg": {
+      "bytes": 4394,
+      "sha256": "854c44495ed2f67f4b13661b78e73c486b521d11798b695c808c006186eb2a86",
+      "content_type": "image/svg+xml"
+    }
+  }
+}

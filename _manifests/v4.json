@@ -1,0 +1,178 @@
+{
+  "version": 4,
+  "date_published": "2026-09-11",
+  "netlify_site": "rococo-pavlova-ea1cd2",
+  "url": "https://rococo-pavlova-ea1cd2.netlify.app",
+  "folder": "v4-2026-09-11-rococo-pavlova-ea1cd2",
+  "title": "OpenEXA \u2014 Agents that run the whole lifecycle",
+  "headline": "Agents that run the whole lifecycle.",
+  "pages": [
+    "404.html",
+    "access.html",
+    "evidence.html",
+    "index.html",
+    "insights.html",
+    "lifecycles.html",
+    "platform.html",
+    "trust.html"
+  ],
+  "file_count": 22,
+  "total_bytes": 623254,
+  "links_restored": {
+    "index.html": 29,
+    "platform.html": 24,
+    "lifecycles.html": 25,
+    "evidence.html": 27,
+    "trust.html": 24,
+    "insights.html": 23,
+    "access.html": 22,
+    "404.html": 24
+  },
+  "redirects": {},
+  "server_404": [
+    "/_headers",
+    "/_redirects",
+    "/about.html",
+    "/agents.html",
+    "/assets/js/index.html",
+    "/careers.html",
+    "/company.html",
+    "/contact.html",
+    "/economics.html",
+    "/favicon.ico",
+    "/favicon.svg",
+    "/governance.html",
+    "/humans.txt",
+    "/investors.html",
+    "/legal.html",
+    "/manifest.json",
+    "/privacy.html",
+    "/product.html",
+    "/proof.html",
+    "/research.html",
+    "/roadmap.html",
+    "/swarm.html",
+    "/team.html",
+    "/technology.html",
+    "/terms.html"
+  ],
+  "unresolved_references": [],
+  "external_hosts": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "sentiment.openexa.com",
+    "www.openexa.com"
+  ],
+  "files": {
+    "index.html": {
+      "bytes": 26437,
+      "sha256": "3739989260849001e7c83a676654ca460f45053940e00a8194940694f184fa18",
+      "content_type": "text/html"
+    },
+    "sitemap.xml": {
+      "bytes": 1122,
+      "sha256": "f8456c9c2a63ed9c358d8fd14b9dcfbb008b30fe0ee6916159a74ead4a616f8a",
+      "content_type": "application/xml"
+    },
+    "robots.txt": {
+      "bytes": 69,
+      "sha256": "79650137339e3b53a9f01e46cd5ee5a91367412f35d5a14497ced0dfc4ab3471",
+      "content_type": "text/plain"
+    },
+    "site.webmanifest": {
+      "bytes": 398,
+      "sha256": "aad2d26fe0f879860dae81871165df62551753c06ce27cbdef723507fac61e57",
+      "content_type": "application/octet-stream"
+    },
+    "README.md": {
+      "bytes": 10094,
+      "sha256": "a145e80ab3c171f1891e8ffbc2b4ce072fd8ca637c82619f119364aa15a3b297",
+      "content_type": "text/markdown"
+    },
+    "platform.html": {
+      "bytes": 25919,
+      "sha256": "9672106a6b961735b886360a736b4f38e5904bcbd61b76883eaa485b0a7e01eb",
+      "content_type": "text/html"
+    },
+    "lifecycles.html": {
+      "bytes": 20268,
+      "sha256": "0568bf135a9d96548881b8dca79de1f0a272008d8af06e3fbbc118cfce1a717c",
+      "content_type": "text/html"
+    },
+    "evidence.html": {
+      "bytes": 16900,
+      "sha256": "b71c87a65481c0777cb3139b000c0a09a887417233ab3d73b051945a7f235f4f",
+      "content_type": "text/html"
+    },
+    "trust.html": {
+      "bytes": 18355,
+      "sha256": "5befd3b50c8356638d332cde39ec295788aa0a46035f168b96299e7ad786477a",
+      "content_type": "text/html"
+    },
+    "insights.html": {
+      "bytes": 18205,
+      "sha256": "2e3b5ae69533a63c12928876f1959e8e918eb04c5e9b0896f40b154cd8239ff5",
+      "content_type": "text/html"
+    },
+    "access.html": {
+      "bytes": 12781,
+      "sha256": "e9361de1f20ccf6f2794a5f906bd3165b471ed066c32b719cb50d37acaaa404b",
+      "content_type": "text/html"
+    },
+    "404.html": {
+      "bytes": 4841,
+      "sha256": "4ea6005b06e1a64f2a8325e57c0b3f594edfbf41a13584237fc1355819ce5570",
+      "content_type": "text/html"
+    },
+    "assets/img/og.png": {
+      "bytes": 254489,
+      "sha256": "35e034d00e891ffd5cd67fa4f4175481d17d2da7905e05c19d384d85bef93968",
+      "content_type": "image/png"
+    },
+    "assets/img/apple-touch-icon.png": {
+      "bytes": 17572,
+      "sha256": "ff2b4a4d5d3666e09d4539c0db63fe88bd01cef90f5eabbbca1afc8bf14ea1fd",
+      "content_type": "image/png"
+    },
+    "assets/img/favicon.svg": {
+      "bytes": 4389,
+      "sha256": "2a9c3b072ce17fb60c7ae5aaacff33f7afec312e9f5f925ac82b2dd591f0b093",
+      "content_type": "image/svg+xml"
+    },
+    "assets/css/site.css": {
+      "bytes": 75198,
+      "sha256": "72a860b97a813af95f85baad0de7d05e0c59fa786e6e78ce298064c7a66d1bc0",
+      "content_type": "text/css"
+    },
+    "assets/js/story.js": {
+      "bytes": 28538,
+      "sha256": "9a7922ce32ab127c4fc980f2742abd533ae2c7cf807b52f7ea8c4d346827d710",
+      "content_type": "application/javascript"
+    },
+    "assets/js/site.js": {
+      "bytes": 23086,
+      "sha256": "fed680794eb21922f259a191edc6a72835326279f2c84841c342f220afbd2857",
+      "content_type": "application/javascript"
+    },
+    "assets/img/icon-192.png": {
+      "bytes": 19225,
+      "sha256": "04810a7589073e1619154b1e20e91c5c70e0823f14001d33086cb2f736863152",
+      "content_type": "image/png"
+    },
+    "assets/img/icon-512.png": {
+      "bytes": 28430,
+      "sha256": "6c7acfedfc4b5b10bf1cb9afa384be7f72fcb82a67df11123f889c8e9c161df6",
+      "content_type": "image/png"
+    },
+    "assets/js/gap.js": {
+      "bytes": 12544,
+      "sha256": "1ec50fe1e7d5836c0985f739ba7c56b9c08c9c2d8f52276f8244706d16fcd10e",
+      "content_type": "application/javascript"
+    },
+    "assets/img/globe.svg": {
+      "bytes": 4394,
+      "sha256": "854c44495ed2f67f4b13661b78e73c486b521d11798b695c808c006186eb2a86",
+      "content_type": "image/svg+xml"
+    }
+  }
+}

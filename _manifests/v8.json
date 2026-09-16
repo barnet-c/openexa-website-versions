@@ -1,0 +1,179 @@
+{
+  "version": 8,
+  "date_published": "2026-09-15",
+  "netlify_site": "heartfelt-valkyrie-f9cbf6",
+  "url": "https://heartfelt-valkyrie-f9cbf6.netlify.app",
+  "folder": "v8-2026-09-15-heartfelt-valkyrie-f9cbf6",
+  "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+  "headline": "Infrastructure for agentic lifecycles.",
+  "pages": [
+    "404.html",
+    "access.html",
+    "company.html",
+    "evidence.html",
+    "index.html",
+    "insights.html",
+    "lifecycles.html",
+    "platform.html",
+    "trust.html"
+  ],
+  "file_count": 30,
+  "total_bytes": 1105148,
+  "links_restored": {},
+  "redirects": {},
+  "server_404": [
+    "/_headers",
+    "/_redirects",
+    "/about.html",
+    "/agents.html",
+    "/careers.html",
+    "/contact.html",
+    "/economics.html",
+    "/favicon.ico",
+    "/favicon.svg",
+    "/governance.html",
+    "/humans.txt",
+    "/investors.html",
+    "/legal.html",
+    "/manifest.json",
+    "/privacy.html",
+    "/product.html",
+    "/proof.html",
+    "/research.html",
+    "/roadmap.html",
+    "/swarm.html",
+    "/team.html",
+    "/technology.html",
+    "/terms.html"
+  ],
+  "unresolved_references": [],
+  "external_hosts": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "sentiment.openexa.com",
+    "www.openexa.com"
+  ],
+  "files": {
+    "404.html": {
+      "bytes": 6610,
+      "sha256": "036392d6efe8d9d75bb5a46ffafb4a78d9f7cb169ba150d4150421e9ca178a13"
+    },
+    "README.md": {
+      "bytes": 17356,
+      "sha256": "8b87da58bb86f4b47f61a9e02235a57646b79c35d944c6f311ada66a34f568a4"
+    },
+    "_redirects": {
+      "bytes": 213,
+      "sha256": "0dc4968204fcd23586b9131a8d3e1e0c97649540538446fc11f933eff6f628b4"
+    },
+    "access.html": {
+      "bytes": 11850,
+      "sha256": "b5aad543c4ec7b11ba9028f00af07eea19ae2fa8aba8f155ae2d68c5a3a31d54"
+    },
+    "assets/css/company.css": {
+      "bytes": 16066,
+      "sha256": "92bf002e966fb609de4f0cd43df89c48b8231176a1cd2f99a6b2a8e0a2a7e6ff"
+    },
+    "assets/css/interior.css": {
+      "bytes": 16283,
+      "sha256": "cced2400a540a38eb7df1b5f0d2aac2827e5a036c88ab929a86ad81c6025c2d9"
+    },
+    "assets/css/site.css": {
+      "bytes": 86966,
+      "sha256": "05496c05c49f31659b14d33ccfe9dcd0c08194741dcc7564c9924eb90894c83e"
+    },
+    "assets/img/apple-touch-icon.png": {
+      "bytes": 17572,
+      "sha256": "ff2b4a4d5d3666e09d4539c0db63fe88bd01cef90f5eabbbca1afc8bf14ea1fd"
+    },
+    "assets/img/company-og.png": {
+      "bytes": 363699,
+      "sha256": "f12df292d2c65a8a64122ed5d2912207986bd9af4730033161b57a9f77221525"
+    },
+    "assets/img/favicon.svg": {
+      "bytes": 4389,
+      "sha256": "2a9c3b072ce17fb60c7ae5aaacff33f7afec312e9f5f925ac82b2dd591f0b093"
+    },
+    "assets/img/globe.svg": {
+      "bytes": 4394,
+      "sha256": "854c44495ed2f67f4b13661b78e73c486b521d11798b695c808c006186eb2a86"
+    },
+    "assets/img/icon-192.png": {
+      "bytes": 19225,
+      "sha256": "04810a7589073e1619154b1e20e91c5c70e0823f14001d33086cb2f736863152"
+    },
+    "assets/img/icon-512.png": {
+      "bytes": 28430,
+      "sha256": "6c7acfedfc4b5b10bf1cb9afa384be7f72fcb82a67df11123f889c8e9c161df6"
+    },
+    "assets/img/og.png": {
+      "bytes": 254988,
+      "sha256": "765a0485237049cf788c5c354244872315140bc61ab2e891059cbda5b270ab42"
+    },
+    "assets/js/chain.js": {
+      "bytes": 5290,
+      "sha256": "904b1bbb5aed4ae1076cd61e2f64ec20b6a317039bfedb9b45fe49d5e46a5e16"
+    },
+    "assets/js/company.js": {
+      "bytes": 15524,
+      "sha256": "086198bf2d8c85fbb55ba1a4d9c01ab212b899b4eca3b1ce9d98376ecd0563fa"
+    },
+    "assets/js/gap.js": {
+      "bytes": 14072,
+      "sha256": "cbf50f120dd2f73c5c508fc9ae483afec9d904b1ccff0d218145d838343addbe"
+    },
+    "assets/js/site.js": {
+      "bytes": 28706,
+      "sha256": "90e01856db4600bb9028c05fca88e2b45e9c69664d7f4c959feb91a545df3183"
+    },
+    "assets/js/story.js": {
+      "bytes": 30602,
+      "sha256": "7a0c26918bbc2d67ee6affb87d118e47e677ff041e3b73488ba25bae9b4d475d"
+    },
+    "assets/js/swarm.js": {
+      "bytes": 10227,
+      "sha256": "dcf98c909e2c247338a35e58379df6f91e904df0bc22b44d16a7dc9bfaad4339"
+    },
+    "company.html": {
+      "bytes": 18789,
+      "sha256": "41e74cd9977d0787093d988ee0b8b6a5a84ef60299eb08b7cba03f67db8aa90b"
+    },
+    "evidence.html": {
+      "bytes": 19739,
+      "sha256": "cdac3c297fc62b503882064d62167dbd17889096d6d43b5823a88de978d07449"
+    },
+    "index.html": {
+      "bytes": 27828,
+      "sha256": "02780597d36cf04b732d12380591f40fa19dc0e1a126dd159593d31bbfda01c6"
+    },
+    "insights.html": {
+      "bytes": 24267,
+      "sha256": "c5199b412c53595821f978f9ca054bccd454fca9a3d528bd258e15d9c1c203ac"
+    },
+    "lifecycles.html": {
+      "bytes": 24716,
+      "sha256": "2e1e400b5dc2c25dc21ceabc520fecaec4c9d6700931bb006f9e0892fb90a2fc"
+    },
+    "platform.html": {
+      "bytes": 18823,
+      "sha256": "0a118892c7afeedfbe2eb1dfe3ec3d8a3f3cf90d99a3b9e4c082c76a43f055a9"
+    },
+    "robots.txt": {
+      "bytes": 69,
+      "sha256": "79650137339e3b53a9f01e46cd5ee5a91367412f35d5a14497ced0dfc4ab3471"
+    },
+    "site.webmanifest": {
+      "bytes": 398,
+      "sha256": "aad2d26fe0f879860dae81871165df62551753c06ce27cbdef723507fac61e57"
+    },
+    "sitemap.xml": {
+      "bytes": 1263,
+      "sha256": "1d1acbcb7cb05d16d41521b749113565f25a4d0fe9120340c3e9cbc72f206de8"
+    },
+    "trust.html": {
+      "bytes": 16794,
+      "sha256": "b74569d2a81c78aba156ce9446d8b5432926219c7d63aaac39d00e54092ad6c2"
+    }
+  },
+  "provenance": "Exact uploaded source (openexa-site). Verified against the live deploy on 2026-09-16: 20/20 non-HTML files byte-identical; 9/9 HTML pages identical apart from Netlify re-serializing <a> tags (attribute order, quotes, clean-URL links); _redirects is consumed by Netlify and never served."
+}

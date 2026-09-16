@@ -1,0 +1,141 @@
+{
+  "version": 2,
+  "date_published": "2026-09-10",
+  "netlify_site": "relaxed-chebakia-962045",
+  "url": "https://relaxed-chebakia-962045.netlify.app",
+  "folder": "v2-2026-09-10-relaxed-chebakia-962045",
+  "title": "OpenEXA \u2014 Thousands of AI agents. One lifecycle.",
+  "headline": "Thousands of agents. One lifecycle.",
+  "pages": [
+    "404.html",
+    "access.html",
+    "evidence.html",
+    "index.html",
+    "insights.html",
+    "lifecycles.html",
+    "platform.html",
+    "trust.html"
+  ],
+  "file_count": 14,
+  "total_bytes": 264767,
+  "links_restored": {
+    "index.html": 33,
+    "platform.html": 24,
+    "lifecycles.html": 25,
+    "evidence.html": 27,
+    "trust.html": 24,
+    "insights.html": 23,
+    "access.html": 22
+  },
+  "redirects": {},
+  "server_404": [
+    "/_headers",
+    "/_redirects",
+    "/about.html",
+    "/agents.html",
+    "/assets/js/index.html",
+    "/careers.html",
+    "/company.html",
+    "/contact.html",
+    "/economics.html",
+    "/favicon.ico",
+    "/favicon.svg",
+    "/governance.html",
+    "/humans.txt",
+    "/investors.html",
+    "/legal.html",
+    "/manifest.json",
+    "/privacy.html",
+    "/product.html",
+    "/proof.html",
+    "/research.html",
+    "/roadmap.html",
+    "/robots.txt",
+    "/site.webmanifest",
+    "/sitemap.xml",
+    "/swarm.html",
+    "/team.html",
+    "/technology.html",
+    "/terms.html"
+  ],
+  "unresolved_references": [],
+  "external_hosts": [
+    "answers.netlify.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "sentiment.openexa.com",
+    "www.openexa.com"
+  ],
+  "files": {
+    "index.html": {
+      "bytes": 31468,
+      "sha256": "e1024266e964b2fd40b324ad17c81b71aceb96c463fe1ade1a2294728c65c108",
+      "content_type": "text/html"
+    },
+    "README.md": {
+      "bytes": 6650,
+      "sha256": "1a8dfc9232f71663db6d02f34244f83e0e6f437d3ede426734f9d02b39f03a4e",
+      "content_type": "text/markdown"
+    },
+    "platform.html": {
+      "bytes": 24490,
+      "sha256": "d40412ca479283af5b4601f25f7659ecf0c7421b1140837af52eeac9cc23fa76",
+      "content_type": "text/html"
+    },
+    "lifecycles.html": {
+      "bytes": 20265,
+      "sha256": "44abb8e1c7be3238f095af1f3d2673a9d522f6d597c39cf0a21975aa43f830db",
+      "content_type": "text/html"
+    },
+    "evidence.html": {
+      "bytes": 15655,
+      "sha256": "69d13705b5e9e23d860cf6e54bc921fa07cacd028c6911a572ec99d554b6bf0a",
+      "content_type": "text/html"
+    },
+    "trust.html": {
+      "bytes": 16905,
+      "sha256": "f38c19c2d547232897eca7fe8c9a6815cb01a8d9a1711b6a152172a83ae98a54",
+      "content_type": "text/html"
+    },
+    "insights.html": {
+      "bytes": 16990,
+      "sha256": "2dc38ca1d16b5f10e0fa53ac058f1af9895c41ae3482ae5032413ea715ddee2a",
+      "content_type": "text/html"
+    },
+    "access.html": {
+      "bytes": 11526,
+      "sha256": "b2f13a8e00f83a80f2438deac927608ae9d893e0d9948308a3021eb3b4ed4e2d",
+      "content_type": "text/html"
+    },
+    "404.html": {
+      "bytes": 3449,
+      "sha256": "8514f0009a58c6e0acb5468f88037732b59b70af5e524f452e3bef8fb33effc5",
+      "content_type": "text/html"
+    },
+    "assets/img/favicon.svg": {
+      "bytes": 4389,
+      "sha256": "2a9c3b072ce17fb60c7ae5aaacff33f7afec312e9f5f925ac82b2dd591f0b093",
+      "content_type": "image/svg+xml"
+    },
+    "assets/css/site.css": {
+      "bytes": 61930,
+      "sha256": "a19e78f8eafaf517c43a97d4465fbdb0d0c77ebcd01222e297b65510e1f35151",
+      "content_type": "text/css"
+    },
+    "assets/js/story.js": {
+      "bytes": 25931,
+      "sha256": "25bc56ea611806f7a44a1b1536d626ea6027bf815764d2100f18beafade7be30",
+      "content_type": "application/javascript"
+    },
+    "assets/js/site.js": {
+      "bytes": 20725,
+      "sha256": "9cbfe0eb16db9666f219c7e44a75539af84bc70b8ce17b9ca06cbb86a0cc36f0",
+      "content_type": "application/javascript"
+    },
+    "assets/img/globe.svg": {
+      "bytes": 4394,
+      "sha256": "854c44495ed2f67f4b13661b78e73c486b521d11798b695c808c006186eb2a86",
+      "content_type": "image/svg+xml"
+    }
+  }
+}

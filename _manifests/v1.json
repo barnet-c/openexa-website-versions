@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "date_published": "2026-09-03",
+  "netlify_site": "timely-quokka-fa2399",
+  "url": "https://timely-quokka-fa2399.netlify.app",
+  "folder": "v1-2026-09-03-timely-quokka-fa2399",
+  "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+  "headline": "Infrastructure for agentic lifecycles.",
+  "pages": [
+    "404.html",
+    "access.html",
+    "company.html",
+    "evidence.html",
+    "index.html",
+    "insights.html",
+    "investors.html",
+    "lifecycles.html",
+    "platform.html",
+    "trust.html"
+  ],
+  "file_count": 22,
+  "total_bytes": 1758398,
+  "links_restored": {
+    "index.html": 37,
+    "platform.html": 28,
+    "lifecycles.html": 29,
+    "evidence.html": 31,
+    "trust.html": 28,
+    "company.html": 27,
+    "insights.html": 27,
+    "access.html": 26,
+    "investors.html": 31
+  },
+  "redirects": {},
+  "server_404": [
+    "/_headers",
+    "/_redirects",
+    "/about.html",
+    "/agents.html",
+    "/assets/js/index.html",
+    "/careers.html",
+    "/contact.html",
+    "/economics.html",
+    "/favicon.ico",
+    "/favicon.svg",
+    "/governance.html",
+    "/humans.txt",
+    "/legal.html",
+    "/manifest.json",
+    "/privacy.html",
+    "/product.html",
+    "/proof.html",
+    "/research.html",
+    "/roadmap.html",
+    "/robots.txt",
+    "/site.webmanifest",
+    "/sitemap.xml",
+    "/swarm.html",
+    "/team.html",
+    "/technology.html",
+    "/terms.html"
+  ],
+  "unresolved_references": [],
+  "external_hosts": [
+    "answers.netlify.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "sentiment.openexa.com",
+    "twitter.com",
+    "www.linkedin.com",
+    "www.openexa.com"
+  ],
+  "files": {
+    "index.html": {
+      "bytes": 37700,
+      "sha256": "f1375b851b4085947c573ae8a58ff75a82c66981b151ea3951bda23aa08553b6",
+      "content_type": "text/html"
+    },
+    "README.md": {
+      "bytes": 7429,
+      "sha256": "70174128a33eb242ca7f1253d58571639c2a733a79a7c5ca1c48ebb4c428f643",
+      "content_type": "text/markdown"
+    },
+    "platform.html": {
+      "bytes": 24901,
+      "sha256": "58c51ea927b0c0b08f26ac700722d6a565c1879c7b53de7f986352f79acae037",
+      "content_type": "text/html"
+    },
+    "lifecycles.html": {
+      "bytes": 20673,
+      "sha256": "277d145063e62a4ebf07a38a85c6d1dc2438b926c20258de02eb1718e625ee97",
+      "content_type": "text/html"
+    },
+    "evidence.html": {
+      "bytes": 21300,
+      "sha256": "548fd1083ab494201cceb942269490169c87436b6a25703ca0284422c555ab28",
+      "content_type": "text/html"
+    },
+    "trust.html": {
+      "bytes": 17313,
+      "sha256": "05543587cc43b15e7c41cf06d3b55e6b87bcad93bd06ab8ce53d457dc0f90627",
+      "content_type": "text/html"
+    },
+    "company.html": {
+      "bytes": 16887,
+      "sha256": "3ffb229fec3cfe8e1583aa33d5f4dac72054110155e9c0efcf80f893b49f44be",
+      "content_type": "text/html"
+    },
+    "insights.html": {
+      "bytes": 17371,
+      "sha256": "6a2b3f5d379f69732e426968b3fbfd99a50df603295978697574ed2c0e9421b5",
+      "content_type": "text/html"
+    },
+    "access.html": {
+      "bytes": 12143,
+      "sha256": "ede4b2d51b140fe17de4067a3121405b430a0c35520c861aa57cd6434ebd3f88",
+      "content_type": "text/html"
+    },
+    "404.html": {
+      "bytes": 3449,
+      "sha256": "8514f0009a58c6e0acb5468f88037732b59b70af5e524f452e3bef8fb33effc5",
+      "content_type": "text/html"
+    },
+    "investors.html": {
+      "bytes": 21220,
+      "sha256": "1a98832eb6154e3f3d7d6d44d4ce7ba75601ed7b9305831dfb1c3f161e296e67",
+      "content_type": "text/html"
+    },
+    "assets/img/favicon.svg": {
+      "bytes": 4389,
+      "sha256": "2a9c3b072ce17fb60c7ae5aaacff33f7afec312e9f5f925ac82b2dd591f0b093",
+      "content_type": "image/svg+xml"
+    },
+    "assets/css/site.css": {
+      "bytes": 57874,
+      "sha256": "4e6ed9640070378627b9a9e8e4b82885025b72fa8aba5159d2fa2bd97db272f7",
+      "content_type": "text/css"
+    },
+    "assets/img/team/ajit-dubey.png": {
+      "bytes": 304881,
+      "sha256": "a3d6767e6b6d0562e188f206b50d788eb1137ca5b56fc3c9ce97a27bba8c5ffc",
+      "content_type": "image/png"
+    },
+    "assets/img/team/barnet-sherman.png": {
+      "bytes": 403641,
+      "sha256": "a893742384490e0708f76e0b4836529ebeee50e98d7c61310de37cc35f3aad34",
+      "content_type": "image/png"
+    },
+    "assets/img/team/tim-leung.png": {
+      "bytes": 196452,
+      "sha256": "c25607c67bbe1bee19145e6d2f863c08a6ad1c324349a5ee90409a7511c3fc2c",
+      "content_type": "image/png"
+    },
+    "assets/img/team/mike-lockhart.png": {
+      "bytes": 142545,
+      "sha256": "c4b0cb4fb13e6517884a7c8b9243cd02c535b4ec19854451b2ca61abaf0461e7",
+      "content_type": "image/png"
+    },
+    "assets/img/team/victor-gamolsky.png": {
+      "bytes": 169216,
+      "sha256": "4a6c7f5cb15c69267fff42e60090373f285f3ee8377e58544640d6a560da116e",
+      "content_type": "image/png"
+    },
+    "assets/img/team/shalabh-choudhri.png": {
+      "bytes": 228667,
+      "sha256": "a2a9438fd32f34d29602e143f7061af7c39a283402aaa5ac0aaba41efe747a85",
+      "content_type": "image/png"
+    },
+    "assets/js/story.js": {
+      "bytes": 25177,
+      "sha256": "4cf2dfafeafef0dbafe21659a741ac5c4f3c0332433e9d3060bbb823fc8cc13f",
+      "content_type": "application/javascript"
+    },
+    "assets/js/site.js": {
+      "bytes": 20776,
+      "sha256": "2ff2d9ab50712885fe765caefea6b9e3546aaf0eb0e9eb0bed11ae6da6d1fa17",
+      "content_type": "application/javascript"
+    },
+    "assets/img/globe.svg": {
+      "bytes": 4394,
+      "sha256": "854c44495ed2f67f4b13661b78e73c486b521d11798b695c808c006186eb2a86",
+      "content_type": "image/svg+xml"
+    }
+  }
+}

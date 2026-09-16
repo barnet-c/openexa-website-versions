@@ -1,0 +1,116 @@
+{
+  "v1-2026-09-03-timely-quokka-fa2399": {
+    "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+    "nav": [
+      "platform.html",
+      "lifecycles.html",
+      "evidence.html",
+      "trust.html",
+      "company.html",
+      "insights.html"
+    ],
+    "errors": [],
+    "failed_requests": []
+  },
+  "v2-2026-09-10-relaxed-chebakia-962045": {
+    "title": "OpenEXA \u2014 Thousands of AI agents. One lifecycle.",
+    "nav": [
+      "platform.html",
+      "lifecycles.html",
+      "evidence.html",
+      "trust.html",
+      "insights.html"
+    ],
+    "errors": [],
+    "failed_requests": []
+  },
+  "v3-2026-09-10-zingy-valkyrie-475e73": {
+    "title": "OpenEXA \u2014 Thousands of AI agents. One lifecycle.",
+    "nav": [
+      "platform.html",
+      "lifecycles.html",
+      "evidence.html",
+      "trust.html",
+      "insights.html"
+    ],
+    "errors": [],
+    "failed_requests": []
+  },
+  "v4-2026-09-11-rococo-pavlova-ea1cd2": {
+    "title": "OpenEXA \u2014 Agents that run the whole lifecycle",
+    "nav": [
+      "platform.html",
+      "lifecycles.html",
+      "evidence.html",
+      "trust.html",
+      "insights.html"
+    ],
+    "errors": [],
+    "failed_requests": []
+  },
+  "v5-2026-09-14-cheery-nasturtium-0799d0": {
+    "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+    "nav": [
+      "platform.html",
+      "lifecycles.html",
+      "evidence.html",
+      "trust.html",
+      "insights.html"
+    ],
+    "errors": [],
+    "failed_requests": []
+  },
+  "v6-2026-09-15-celebrated-frangollo-b9d062": {
+    "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+    "nav": [
+      "platform.html",
+      "lifecycles.html",
+      "evidence.html",
+      "trust.html",
+      "company.html",
+      "insights.html"
+    ],
+    "errors": [
+      "Failed to load resource: the server responded with a status of 404 (File not found)",
+      "Failed to load resource: the server responded with a status of 404 (File not found)",
+      "Failed to load resource: the server responded with a status of 404 (File not found)",
+      "Failed to load resource: the server responded with a status of 404 (File not found)",
+      "Failed to load resource: the server responded with a status of 404 (File not found)",
+      "Failed to load resource: the server responded with a status of 404 (File not found)"
+    ],
+    "failed_requests": [
+      "/v6-2026-09-15-celebrated-frangollo-b9d062/assets/css/site.css",
+      "/v6-2026-09-15-celebrated-frangollo-b9d062/assets/img/globe.svg",
+      "/v6-2026-09-15-celebrated-frangollo-b9d062/assets/js/story.js",
+      "/v6-2026-09-15-celebrated-frangollo-b9d062/assets/js/swarm.js",
+      "/v6-2026-09-15-celebrated-frangollo-b9d062/assets/js/chain.js",
+      "/v6-2026-09-15-celebrated-frangollo-b9d062/assets/js/site.js"
+    ]
+  },
+  "v7-2026-09-15-soft-blini-d36f10": {
+    "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+    "nav": [
+      "platform.html",
+      "lifecycles.html",
+      "evidence.html",
+      "trust.html",
+      "company.html",
+      "insights.html"
+    ],
+    "errors": [],
+    "failed_requests": []
+  },
+  "v8-2026-09-15-heartfelt-valkyrie-f9cbf6": {
+    "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+    "nav": [
+      "platform.html",
+      "lifecycles.html",
+      "evidence.html",
+      "trust.html",
+      "company.html",
+      "insights.html"
+    ],
+    "errors": [],
+    "failed_requests": []
+  }
+}
