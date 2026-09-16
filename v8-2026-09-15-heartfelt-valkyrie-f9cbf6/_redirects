@@ -1,0 +1,3 @@
+# Use Netlify's built-in clean URLs for the sibling .html files.
+# Netlify normalizes trailing slashes before matching redirect rules.
+# A /company/ -> /company redirect therefore redirects /company to itself.
