@@ -73,7 +73,7 @@
         "www.openexa.com"
       ],
       "summary": "First Netlify relaunch, finance-era copy",
-      "detail": "10 pages including the old Company page (team bios, office address, phone, personal email) and an Investors page. Hero mentions NASDAQ/NYSE and \"Lifecycle 01 is live\". Contains personal data - keep private.",
+      "detail": "10 pages including the old Company page (team bios, office address, phone, personal email) and an Investors page. Hero mentions NASDAQ/NYSE and \"Lifecycle 01 is live\". Contact details are reproduced as they were deployed.",
       "live_status": "live",
       "unresolved_references": 0,
       "provenance": "Mirrored from the live Netlify deploy on 2026-09-16; clean-URL links restored to .html",

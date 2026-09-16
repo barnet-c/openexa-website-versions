@@ -12,7 +12,7 @@ open its `index.html` directly or serve the folder with any static server.
 
 | # | Published | Netlify site | Headline | Pages | Files | What it is |
 |---|---|---|---|---|---|---|
-| **v1** | 2026-09-03 | [timely-quokka-fa2399](https://timely-quokka-fa2399.netlify.app) | Infrastructure for agentic lifecycles. | 10 | 22 | **First Netlify relaunch, finance-era copy.** 10 pages including the old Company page (team bios, office address, phone, personal email) and an Investors page. Hero mentions NASDAQ/NYSE and "Lifecycle 01 is live". Contains personal data - keep private. |
+| **v1** | 2026-09-03 | [timely-quokka-fa2399](https://timely-quokka-fa2399.netlify.app) | Infrastructure for agentic lifecycles. | 10 | 22 | **First Netlify relaunch, finance-era copy.** 10 pages including the old Company page (team bios, office address, phone, personal email) and an Investors page. Hero mentions NASDAQ/NYSE and "Lifecycle 01 is live". Contact details are reproduced as they were deployed. |
 | **v2** | 2026-09-10 | [relaxed-chebakia-962045](https://relaxed-chebakia-962045.netlify.app) | Thousands of agents. One lifecycle. | 8 | 14 | **Company and Investors pages removed.** Down to 8 pages. Team photos and personal details gone. Headline "Thousands of agents. One lifecycle." Still finance-first wording (ETF creation/redemption, NASDAQ/NYSE). |
 | **v3** | 2026-09-10 | [zingy-valkyrie-475e73](https://zingy-valkyrie-475e73.netlify.app) | Thousands of agents. One lifecycle. | 8 | 22 | **The desk simulator, launch metadata.** Adds gap.js (the illustrative desk), sitemap.xml, robots.txt, web manifest, icons, og.png share card and the 404 page. |
 | **v4** | 2026-09-11 | [rococo-pavlova-ea1cd2](https://rococo-pavlova-ea1cd2.netlify.app) | Agents that run the whole lifecycle. | 8 | 22 | **AI-company repositioning.** Headline "Agents that run the whole lifecycle." "An AI company" kicker, manifesto chapter, six-beat WebGL story. Exchange names removed from the homepage. |
@@ -35,7 +35,8 @@ errors and no missing files. v6 fails exactly as the live deploy does, because i
 
 ## Notes
 
-- v1 contains team biographies and personal contact details. Keep this archive private.
+- v1 contains the old Company page with team biographies and contact details (office address, phone, a personal
+  email). These were on the public site at the time and are reproduced here as deployed. This archive is public.
 - The Netlify dashboard lists these as separate sites because each was a fresh Netlify Drop. Deploy dates come
   from that dashboard; the order within a day was confirmed from the content (v3 adds files to v2; v6, v7 and v8
   share the same homepage, differing only in assets and routing).
