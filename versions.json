@@ -1,7 +1,7 @@
 {
   "generated": "2026-09-21",
   "current_version": 9,
-  "last_deployed_version": 8,
+  "last_deployed_version": 9,
   "versions": [
     {
       "version": 1,
@@ -582,7 +582,7 @@
       ],
       "summary": "Routing fix",
       "detail": "No redirect rules (Netlify's built-in clean URLs serve /company), root-relative asset paths on the Company page, README updated. Deployed to heartfelt-valkyrie; verified byte-identical to the live site. This folder is the exact uploaded source.",
-      "live_status": "live",
+      "live_status": "live (previous)",
       "unresolved_references": 0,
       "provenance": "Exact uploaded source (openexa-site). Verified against the live deploy on 2026-09-16: 20/20 non-HTML files byte-identical; 9/9 HTML pages identical apart from Netlify re-serializing <a> tags (attribute order, quotes, clean-URL links); _redirects is consumed by Netlify and never served.",
       "preview": "_previews/v8-home.png",
@@ -591,8 +591,8 @@
     {
       "version": 9,
       "date_published": "2026-09-21",
-      "netlify_site": "(not yet deployed)",
-      "url": "",
+      "netlify_site": "willowy-squirrel-0c1ad5",
+      "url": "https://willowy-squirrel-0c1ad5.netlify.app",
       "folder": "v9-2026-09-21-ceo-cut",
       "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
       "headline": "Infrastructure for agentic lifecycles.",
@@ -616,11 +616,11 @@
         "sentiment.openexa.com",
         "www.openexa.com"
       ],
-      "summary": "CURRENT - the CEO's cut (not yet deployed)",
-      "detail": "Built from v1, the CEO's preferred version: same dark overture into paper chapters, eight layers, ten-session proof, economics and roadmap. Company and Investors pages removed along with team bios, photos, phone, address and personal email. Every NASDAQ/NYSE mention and broker/clearing-house name removed; hero sub-line trimmed to the infrastructure sentence; ARR/AUM pitch figures and the BTC-yield/GTM sections dropped. Adds the live swarm, the SHA-256 chain and the desk; story engine gets glow, inertia, pause, keyboard chapters; hero figures moved under the copy; native cursor; accessible menu, safer form, launch metadata. Ship this folder.",
-      "live_status": "built 2026-09-21, awaiting Netlify Drop",
+      "summary": "CURRENT - the CEO's cut",
+      "detail": "Built from v1, the CEO's preferred version: same dark overture into paper chapters, eight layers, ten-session proof, economics and roadmap. Company and Investors pages removed along with team bios, photos, phone, address and personal email. Every NASDAQ/NYSE mention and broker/clearing-house name removed; hero sub-line trimmed to the infrastructure sentence; ARR/AUM pitch figures and the BTC-yield/GTM sections dropped. Adds the live swarm, the SHA-256 chain and the desk; story engine gets glow, inertia, pause, keyboard chapters; hero figures moved under the copy; native cursor; accessible menu, safer form, launch metadata. Deployed 2026-09-21 as willowy-squirrel; verified identical to this folder.",
+      "live_status": "live - current",
       "unresolved_references": 0,
-      "provenance": "Built locally on 2026-09-21 from v1 (timely-quokka) + the v8 engines; verified with verify_v9.py. Not deployed to Netlify at the time of archiving.",
+      "provenance": "Built locally on 2026-09-21 from v1 (timely-quokka) + the v8 engines; verified with verify_v9.py. Deployed via Netlify Drop the same day (2:23 PM) as willowy-squirrel-0c1ad5; on 2026-09-21 the live deploy was verified against this folder: 16/16 non-HTML files byte-identical, 8/8 pages identical apart from Netlify's clean-URL link rewriting.",
       "preview": "_previews/v9-home.png",
       "loads_locally_without_errors": true
     }

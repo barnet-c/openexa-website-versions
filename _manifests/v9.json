@@ -1,8 +1,8 @@
 {
   "version": 9,
   "date_published": "2026-09-21",
-  "netlify_site": "(not yet deployed)",
-  "url": "",
+  "netlify_site": "willowy-squirrel-0c1ad5",
+  "url": "https://willowy-squirrel-0c1ad5.netlify.app",
   "folder": "v9-2026-09-21-ceo-cut",
   "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
   "headline": "Infrastructure for agentic lifecycles.",
@@ -130,5 +130,5 @@
       "sha256": "3334b439a5cd233933049527662a1e496b3c0a5e89d9c6d8ea30dc80e23f832f"
     }
   },
-  "provenance": "Built locally on 2026-09-21 from v1 (timely-quokka) + the v8 engines; verified with verify_v9.py. Not deployed to Netlify at the time of archiving."
+  "provenance": "Built locally on 2026-09-21 from v1 (timely-quokka) + the v8 engines; verified with verify_v9.py. Deployed via Netlify Drop the same day (2:23 PM) as willowy-squirrel-0c1ad5; on 2026-09-21 the live deploy was verified against this folder: 16/16 non-HTML files byte-identical, 8/8 pages identical apart from Netlify's clean-URL link rewriting."
 }
