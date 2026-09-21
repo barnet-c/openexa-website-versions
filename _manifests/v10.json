@@ -1,8 +1,8 @@
 {
   "version": 10,
   "date_published": "2026-09-21",
-  "netlify_site": "",
-  "url": "",
+  "netlify_site": "silly-gelato-17a75a",
+  "url": "https://silly-gelato-17a75a.netlify.app",
   "folder": "v10-2026-09-21-research-company",
   "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
   "headline": "Infrastructure for agentic lifecycles.",
@@ -194,5 +194,5 @@
       "sha256": "b4a659a443c30f75152f27ecae28e4f52b2dd592ee0f5234c15eb6062341b449"
     }
   },
-  "provenance": "Built locally on 2026-09-21 from v9 (the CEO's cut): adds the Research section (research.html + ten articles, posts 9 and 10 first, then the series 1-8), the Company page, chapter 08 on the homepage and the figure.js point-cloud engine; insights.html became a redirect to research.html. Verified with verify_v9.py (11 pages), verify_editorial.py and linkcheck_tree.py (712 refs, 0 bad). Not yet deployed; drop the folder (or OpenEXA-v10-research-company.zip) on Netlify and record the site name here."
+  "provenance": "Built locally on 2026-09-21 from v9 (the CEO's cut): adds the Research section (research.html + ten articles, posts 9 and 10 first, then the series 1-8), the Company page, chapter 08 on the homepage and the figure.js point-cloud engine; insights.html became a redirect to research.html. Verified with verify_v9.py (11 pages), verify_editorial.py and linkcheck_tree.py (712 refs, 0 bad). Deployed via Netlify Drop the same day as silly-gelato-17a75a; on 2026-09-21 the live deploy was verified against this folder: 16/16 non-HTML files byte-identical, 20/20 pages identical apart from Netlify's clean-URL link rewriting; /company, /research and every article resolve at their clean URLs; a browser smoke test on the live site confirmed the figures render, the Company modes switch, the Research index morphs on hover and there are no console errors."
 }

@@ -1,7 +1,7 @@
 {
   "generated": "2026-09-21",
   "current_version": 10,
-  "last_deployed_version": 9,
+  "last_deployed_version": 10,
   "versions": [
     {
       "version": 1,
@@ -582,7 +582,7 @@
       ],
       "summary": "Routing fix",
       "detail": "No redirect rules (Netlify's built-in clean URLs serve /company), root-relative asset paths on the Company page, README updated. Deployed to heartfelt-valkyrie; verified byte-identical to the live site. This folder is the exact uploaded source.",
-      "live_status": "live (previous)",
+      "live_status": "live",
       "unresolved_references": 0,
       "provenance": "Exact uploaded source (openexa-site). Verified against the live deploy on 2026-09-16: 20/20 non-HTML files byte-identical; 9/9 HTML pages identical apart from Netlify re-serializing <a> tags (attribute order, quotes, clean-URL links); _redirects is consumed by Netlify and never served.",
       "preview": "_previews/v8-home.png",
@@ -618,7 +618,7 @@
       ],
       "summary": "The CEO's cut",
       "detail": "Built from v1, the CEO's preferred version: same dark overture into paper chapters, eight layers, ten-session proof, economics and roadmap. Company and Investors pages removed along with team bios, photos, phone, address and personal email. Every NASDAQ/NYSE mention and broker/clearing-house name removed; hero sub-line trimmed to the infrastructure sentence; ARR/AUM pitch figures and the BTC-yield/GTM sections dropped. Adds the live swarm, the SHA-256 chain and the desk; story engine gets glow, inertia, pause, keyboard chapters; hero figures moved under the copy; native cursor; accessible menu, safer form, launch metadata. Deployed 2026-09-21 as willowy-squirrel; verified identical to this folder.",
-      "live_status": "live - latest deployed",
+      "live_status": "live (previous)",
       "unresolved_references": 0,
       "provenance": "Built locally on 2026-09-21 from v1 (timely-quokka) + the v8 engines; verified with verify_v9.py. Deployed via Netlify Drop the same day (2:23 PM) as willowy-squirrel-0c1ad5; on 2026-09-21 the live deploy was verified against this folder: 16/16 non-HTML files byte-identical, 8/8 pages identical apart from Netlify's clean-URL link rewriting.",
       "preview": "_previews/v9-home.png",
@@ -627,8 +627,8 @@
     {
       "version": 10,
       "date_published": "2026-09-21",
-      "netlify_site": "",
-      "url": "",
+      "netlify_site": "silly-gelato-17a75a",
+      "url": "https://silly-gelato-17a75a.netlify.app",
       "folder": "v10-2026-09-21-research-company",
       "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
       "headline": "Infrastructure for agentic lifecycles.",
@@ -665,10 +665,10 @@
         "www.openexa.com"
       ],
       "summary": "CURRENT - research + company",
-      "detail": "v9 plus a Research section (research.html and ten articles: the two research notes first, then the eight-part series), an award-quality Company page (point-cloud sculpture with Specialize / Coordinate / Act modes, mission manifesto, story timeline, four constants), chapter 08 Research on the homepage, and figure.js - a WebGL point-cloud engine with twelve named formations that morph on hover and click. insights.html redirects to research.html; nav and footers link Research and Company; sitemap has 18 URLs. Built 2026-09-21, verified (11 pages, 712 links); not yet deployed - drop OpenEXA-v10-research-company.zip on Netlify and record the site name.",
-      "live_status": "built, awaiting Netlify Drop",
+      "detail": "v9 plus a Research section (research.html and ten articles: the two research notes first, then the eight-part series), an award-quality Company page (point-cloud sculpture with Specialize / Coordinate / Act modes, mission manifesto, story timeline, four constants), chapter 08 Research on the homepage, and figure.js - a WebGL point-cloud engine with twelve named formations that morph on hover and click. insights.html redirects to research.html; nav and footers link Research and Company; sitemap has 18 URLs. Built and verified 2026-09-21 (11 pages, 712 links); deployed the same day as silly-gelato; the live deploy was verified identical to this folder and smoke-tested in a browser.",
+      "live_status": "live - current",
       "unresolved_references": 0,
-      "provenance": "Built locally on 2026-09-21 from v9 (the CEO's cut): adds the Research section (research.html + ten articles, posts 9 and 10 first, then the series 1-8), the Company page, chapter 08 on the homepage and the figure.js point-cloud engine; insights.html became a redirect to research.html. Verified with verify_v9.py (11 pages), verify_editorial.py and linkcheck_tree.py (712 refs, 0 bad). Not yet deployed; drop the folder (or OpenEXA-v10-research-company.zip) on Netlify and record the site name here.",
+      "provenance": "Built locally on 2026-09-21 from v9 (the CEO's cut): adds the Research section (research.html + ten articles, posts 9 and 10 first, then the series 1-8), the Company page, chapter 08 on the homepage and the figure.js point-cloud engine; insights.html became a redirect to research.html. Verified with verify_v9.py (11 pages), verify_editorial.py and linkcheck_tree.py (712 refs, 0 bad). Deployed via Netlify Drop the same day as silly-gelato-17a75a; on 2026-09-21 the live deploy was verified against this folder: 16/16 non-HTML files byte-identical, 20/20 pages identical apart from Netlify's clean-URL link rewriting; /company, /research and every article resolve at their clean URLs; a browser smoke test on the live site confirmed the figures render, the Company modes switch, the Research index morphs on hover and there are no console errors.",
       "preview": "_previews/v10-home.png",
       "loads_locally_without_errors": true
     }

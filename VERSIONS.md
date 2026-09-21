@@ -5,11 +5,9 @@ from the first deploy to the current one. Each `vN-...` folder is a complete, se
 open its `index.html` directly or serve the folder with any static server.
 
 - **Current version: v10** (`v10-2026-09-21-research-company`) - v9 plus the Research section, the Company page
-  and the figure engine. Built and verified 2026-09-21; **not yet deployed** - drop this folder (or
-  `OpenEXA-v10-research-company.zip`) on Netlify and record the site name in `_manifests/v10.json`.
-- **Latest deployed: v9** (`v9-2026-09-21-ceo-cut`) - built from the CEO's preferred v1 and live at
-  <https://willowy-squirrel-0c1ad5.netlify.app/>; that folder is the exact uploaded source and was verified
-  identical to the live site. v8 (`heartfelt-valkyrie`) remains online as the previous version.
+  and the figure engine, live at <https://silly-gelato-17a75a.netlify.app/>. This folder is the exact uploaded
+  source and was verified identical to the live site; redeploy it (or `OpenEXA-v10-research-company.zip`) for
+  any future Netlify Drop. v9 (`willowy-squirrel`, the CEO's cut) and v8 (`heartfelt-valkyrie`) remain online.
 - `_previews/` - homepage screenshot of every version (1440 x 900).
 - `_manifests/` - per-version file lists with SHA-256 checksums, restored-link counts and any server 404s.
 - `versions.json` - the same index in machine-readable form.
@@ -25,7 +23,7 @@ open its `index.html` directly or serve the folder with any static server.
 | **v7** | 2026-09-15 | [soft-blini-d36f10](https://soft-blini-d36f10.netlify.app) | Infrastructure for agentic lifecycles. | 9 | 29 | **Full-site redesign, complete.** Same HTML as v6 with all assets: interior.css, company.css/js, company-og.png, restyled Platform, Lifecycles, Proof, Trust, Company, Insights, Access and 404. Its _redirects rule made /company loop back to itself (301), so only /company.html worked. |
 | **v8** | 2026-09-15 (redeployed 2026-09-16) | [heartfelt-valkyrie-f9cbf6](https://heartfelt-valkyrie-f9cbf6.netlify.app) | Infrastructure for agentic lifecycles. | 9 | 30 | **Routing fix.** No redirect rules (Netlify's built-in clean URLs serve /company), root-relative asset paths on the Company page, README updated. Deployed to heartfelt-valkyrie; verified byte-identical to the live site. This folder is the exact uploaded source. |
 | **v9** | 2026-09-21 | [willowy-squirrel-0c1ad5](https://willowy-squirrel-0c1ad5.netlify.app) | Infrastructure for agentic lifecycles. | 8 | 25 | **The CEO's cut.** Built from v1, the CEO's preferred version: same dark overture into paper chapters, eight layers, ten-session proof, economics and roadmap. Company and Investors pages removed along with team bios, photos, phone, address and personal email. Every NASDAQ/NYSE mention and broker/clearing-house name removed; hero sub-line trimmed to the infrastructure sentence; ARR/AUM pitch figures and the BTC-yield/GTM sections dropped. Adds the live swarm, the SHA-256 chain and the desk; story engine gets glow, inertia, pause, keyboard chapters; hero figures moved under the copy; native cursor; accessible menu, safer form, launch metadata. Deployed 2026-09-21 as willowy-squirrel; verified identical to this folder. |
-| **v10** | 2026-09-21 | not yet deployed | Infrastructure for agentic lifecycles. | 20 | 38 | **CURRENT - research + company.** v9 plus a Research section (research.html and ten articles: the two research notes first, then the eight-part series), an award-quality Company page (point-cloud sculpture with Specialize / Coordinate / Act modes, mission manifesto, story timeline, four constants), chapter 08 Research on the homepage, and figure.js - a WebGL point-cloud engine with twelve named formations that morph on hover and click. insights.html redirects to research.html; nav and footers link Research and Company; sitemap has 18 URLs. Built 2026-09-21, verified (11 pages, 712 links); not yet deployed - drop OpenEXA-v10-research-company.zip on Netlify and record the site name. |
+| **v10** | 2026-09-21 | [silly-gelato-17a75a](https://silly-gelato-17a75a.netlify.app) | Infrastructure for agentic lifecycles. | 20 | 38 | **CURRENT - research + company.** v9 plus a Research section (research.html and ten articles: the two research notes first, then the eight-part series), an award-quality Company page (point-cloud sculpture with Specialize / Coordinate / Act modes, mission manifesto, story timeline, four constants), chapter 08 Research on the homepage, and figure.js - a WebGL point-cloud engine with twelve named formations that morph on hover and click. insights.html redirects to research.html; nav and footers link Research and Company; sitemap has 18 URLs. Built and verified 2026-09-21 (11 pages, 712 links); deployed the same day as silly-gelato; the live deploy was verified identical to this folder and smoke-tested in a browser. |
 
 ## How the copies were made
 
@@ -36,7 +34,8 @@ work offline and on any host. Netlify never serves `_redirects`, so only v8 (the
 v8 was taken from the local source folder and verified against the live deploy: all 20 non-HTML files are
 byte-identical and all 9 pages are identical apart from Netlify's link re-serialization.
 
-v9 and v10 were built locally; v9 was verified identical to its live deploy after upload.
+v9 and v10 were built locally and each was verified identical to its live deploy after upload (assets byte-for-byte,
+pages apart from Netlify's link rewriting).
 
 Each archived version was then opened in a browser from this folder: v1-v5 and v7-v10 load with zero console
 errors and no missing files. v6 fails exactly as the live deploy does, because its assets were never uploaded.
