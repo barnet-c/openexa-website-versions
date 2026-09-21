@@ -1,0 +1,198 @@
+{
+  "version": 10,
+  "date_published": "2026-09-21",
+  "netlify_site": "",
+  "url": "",
+  "folder": "v10-2026-09-21-research-company",
+  "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+  "headline": "Infrastructure for agentic lifecycles.",
+  "pages": [
+    "404.html",
+    "access.html",
+    "company.html",
+    "evidence.html",
+    "index.html",
+    "insights.html",
+    "lifecycles.html",
+    "platform.html",
+    "research/01-compounding-error.html",
+    "research/02-post-training-and-audit.html",
+    "research/03-not-tasks-lifecycles.html",
+    "research/04-five-thousand-small-agents.html",
+    "research/05-agents-decide-code-executes.html",
+    "research/06-post-training-on-a-rulebook.html",
+    "research/07-the-execution-council.html",
+    "research/08-a-ledger-nobody-can-edit.html",
+    "research/09-lifecycle-01-ten-sessions.html",
+    "research/10-master-and-copy.html",
+    "research.html",
+    "trust.html"
+  ],
+  "file_count": 38,
+  "total_bytes": 866648,
+  "links_restored": {},
+  "redirects": {},
+  "server_404": [],
+  "unresolved_references": [],
+  "external_hosts": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "sentiment.openexa.com",
+    "www.openexa.com"
+  ],
+  "files": {
+    "404.html": {
+      "bytes": 5085,
+      "sha256": "f79e54252348c8a3d19cce1a42f39cdfd38937ca4302a130280a48fc3ddeb27e"
+    },
+    "_redirects": {
+      "bytes": 72,
+      "sha256": "2e2a1960b8d3cc52b40de4b07e3ef0c3c6c49b2c1ad0e818251825901e7cbcc2"
+    },
+    "access.html": {
+      "bytes": 13677,
+      "sha256": "59d4a27d289b022d9849b69cf0b8e477ea91aef464634719f96da5657d5a5326"
+    },
+    "assets/css/site.css": {
+      "bytes": 90523,
+      "sha256": "ee806cac1838fa85453a359668c14d56fe4054426e1a68f801a717857bcaf22c"
+    },
+    "assets/img/apple-touch-icon.png": {
+      "bytes": 17572,
+      "sha256": "ff2b4a4d5d3666e09d4539c0db63fe88bd01cef90f5eabbbca1afc8bf14ea1fd"
+    },
+    "assets/img/favicon.svg": {
+      "bytes": 4389,
+      "sha256": "2a9c3b072ce17fb60c7ae5aaacff33f7afec312e9f5f925ac82b2dd591f0b093"
+    },
+    "assets/img/globe.svg": {
+      "bytes": 4394,
+      "sha256": "854c44495ed2f67f4b13661b78e73c486b521d11798b695c808c006186eb2a86"
+    },
+    "assets/img/icon-192.png": {
+      "bytes": 19225,
+      "sha256": "04810a7589073e1619154b1e20e91c5c70e0823f14001d33086cb2f736863152"
+    },
+    "assets/img/icon-512.png": {
+      "bytes": 28430,
+      "sha256": "6c7acfedfc4b5b10bf1cb9afa384be7f72fcb82a67df11123f889c8e9c161df6"
+    },
+    "assets/img/og.png": {
+      "bytes": 254988,
+      "sha256": "765a0485237049cf788c5c354244872315140bc61ab2e891059cbda5b270ab42"
+    },
+    "assets/js/chain.js": {
+      "bytes": 5189,
+      "sha256": "44c4f9bcb3f985d237cb330ebda1fec98e8757c821e26b6fd0ed7a252f81b33c"
+    },
+    "assets/js/figure.js": {
+      "bytes": 23614,
+      "sha256": "27705aff4dab7823262b1b44a8ffe9166c1bb43bbfe564b858806b4412793010"
+    },
+    "assets/js/gap.js": {
+      "bytes": 14072,
+      "sha256": "cbf50f120dd2f73c5c508fc9ae483afec9d904b1ccff0d218145d838343addbe"
+    },
+    "assets/js/site.js": {
+      "bytes": 28675,
+      "sha256": "449a2fa62aa6ff078e40158513b64c3aae8e42e62a9285ff7d55ff19a5c73451"
+    },
+    "assets/js/story.js": {
+      "bytes": 29920,
+      "sha256": "6baab12a762a36dfdadcf989cf749e919ef2c0d530334ff074d3cb5b233ba83e"
+    },
+    "assets/js/swarm.js": {
+      "bytes": 10059,
+      "sha256": "79f670cb1bc09efa60074460d71ad1d51166c8f4bf99a9fcca65b61e6841566e"
+    },
+    "company.html": {
+      "bytes": 18268,
+      "sha256": "1a3ec0e16659bd82ad8c0067919373547869a1b11a3c850db3983a2a6a7d7206"
+    },
+    "evidence.html": {
+      "bytes": 22767,
+      "sha256": "bf7725a8ba79e67782cf515234064917dbf5a5c61e8c7152a4194374a8d8d63f"
+    },
+    "index.html": {
+      "bytes": 42050,
+      "sha256": "50595bf48766786dba3bc2d49ba02502ef24c284a514e7a62c42e829aba64527"
+    },
+    "insights.html": {
+      "bytes": 388,
+      "sha256": "ad52a3725f43c8f5a32267ca789f2f611c726fa205fc4246eb3e4fb88001632d"
+    },
+    "lifecycles.html": {
+      "bytes": 21342,
+      "sha256": "dff6bc2913d52ba98e2576e83c71b446b149162289f6e2c3dc113aa2dac301e2"
+    },
+    "platform.html": {
+      "bytes": 26232,
+      "sha256": "17c7b1cf130f87fcacbb996b9f9a966ed40d76774e05d499a8d6e527b7275b81"
+    },
+    "README.md": {
+      "bytes": 9592,
+      "sha256": "2ac270bf0ef2f6aabe3ac13fbb5daec23906abf665987588dbfc49dea407cb12"
+    },
+    "research/01-compounding-error.html": {
+      "bytes": 18508,
+      "sha256": "983d0a525a33f7b968c0a8bdd321f22250ebf5cac7903c8f8bba5440a179e743"
+    },
+    "research/02-post-training-and-audit.html": {
+      "bytes": 20015,
+      "sha256": "4722818f6e7ba7f531fbeb01c0f63656365d2250e808a65299e271b4d4fdb6e5"
+    },
+    "research/03-not-tasks-lifecycles.html": {
+      "bytes": 11948,
+      "sha256": "d3e8a2a1d357e094a76991d3768bc85603488cf840bedffc157c32c5d6caa730"
+    },
+    "research/04-five-thousand-small-agents.html": {
+      "bytes": 12033,
+      "sha256": "9d2fd8761b05ba38d94b5bc0641026a3150cc74b5b4c6e106564decadd75f5bb"
+    },
+    "research/05-agents-decide-code-executes.html": {
+      "bytes": 12207,
+      "sha256": "62e12098108966a2d25ba9694648d757698f35420e2c5fa9047f5be19b6aabc5"
+    },
+    "research/06-post-training-on-a-rulebook.html": {
+      "bytes": 12235,
+      "sha256": "9727ccef206aef1c1623aaabc39e268cc113b52e8d7113b9a444499bff5581ce"
+    },
+    "research/07-the-execution-council.html": {
+      "bytes": 11745,
+      "sha256": "f518f5df62a3d40be99cfa17caf37441a2ed960915afa369a9616bf8e9e35b92"
+    },
+    "research/08-a-ledger-nobody-can-edit.html": {
+      "bytes": 12179,
+      "sha256": "6df45c25f45fcaf198ae596242b42303a39449fe0056792d968e69503ffa7539"
+    },
+    "research/09-lifecycle-01-ten-sessions.html": {
+      "bytes": 12792,
+      "sha256": "a6bc0575500130883ecbb55c6b880b6f26eb31ff4486e308aa1d9a8ae4d87a44"
+    },
+    "research/10-master-and-copy.html": {
+      "bytes": 12320,
+      "sha256": "20940b71c843ca235564e58cf6f0dce9018df94d45e55a5e7764fcfe41e0ee34"
+    },
+    "research.html": {
+      "bytes": 18123,
+      "sha256": "64aed360434709180eed0f658854f6aa7286c3798851bf6a82c541e41c574430"
+    },
+    "robots.txt": {
+      "bytes": 69,
+      "sha256": "79650137339e3b53a9f01e46cd5ee5a91367412f35d5a14497ced0dfc4ab3471"
+    },
+    "site.webmanifest": {
+      "bytes": 401,
+      "sha256": "5df5db5ff1755f447198687f110e7b24862083f0c17395f602934af5a62dce4b"
+    },
+    "sitemap.xml": {
+      "bytes": 3003,
+      "sha256": "502e841516b899b3006e1d76685b472306336a6655b663d976960e61816f63e2"
+    },
+    "trust.html": {
+      "bytes": 18547,
+      "sha256": "b4a659a443c30f75152f27ecae28e4f52b2dd592ee0f5234c15eb6062341b449"
+    }
+  },
+  "provenance": "Built locally on 2026-09-21 from v9 (the CEO's cut): adds the Research section (research.html + ten articles, posts 9 and 10 first, then the series 1-8), the Company page, chapter 08 on the homepage and the figure.js point-cloud engine; insights.html became a redirect to research.html. Verified with verify_v9.py (11 pages), verify_editorial.py and linkcheck_tree.py (712 refs, 0 bad). Not yet deployed; drop the folder (or OpenEXA-v10-research-company.zip) on Netlify and record the site name here."
+}
