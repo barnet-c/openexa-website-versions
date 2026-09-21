@@ -1,0 +1,134 @@
+{
+  "version": 9,
+  "date_published": "2026-09-21",
+  "netlify_site": "(not yet deployed)",
+  "url": "",
+  "folder": "v9-2026-09-21-ceo-cut",
+  "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+  "headline": "Infrastructure for agentic lifecycles.",
+  "pages": [
+    "404.html",
+    "access.html",
+    "evidence.html",
+    "index.html",
+    "insights.html",
+    "lifecycles.html",
+    "platform.html",
+    "trust.html"
+  ],
+  "file_count": 25,
+  "total_bytes": 665726,
+  "links_restored": {},
+  "redirects": {},
+  "server_404": [],
+  "unresolved_references": [],
+  "external_hosts": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "sentiment.openexa.com",
+    "www.openexa.com"
+  ],
+  "files": {
+    "404.html": {
+      "bytes": 4954,
+      "sha256": "45aea74fb9748b051bbaf96e710ce36c90777fc5d277efa2cab33e007c3c7972"
+    },
+    "README.md": {
+      "bytes": 6602,
+      "sha256": "5bf9560c1af9f45050de202e7ff2d284171c872e2545c3d5b0d8a179ed419557"
+    },
+    "_redirects": {
+      "bytes": 72,
+      "sha256": "2e2a1960b8d3cc52b40de4b07e3ef0c3c6c49b2c1ad0e818251825901e7cbcc2"
+    },
+    "access.html": {
+      "bytes": 13546,
+      "sha256": "00f92ca8682806bea59e60dd6a475d626ce327e0d2d700ca5803d2f34d361b55"
+    },
+    "assets/css/site.css": {
+      "bytes": 76285,
+      "sha256": "1c518ff2b64e502cb09d5c75e6c748a05b0e3e60cdbcfebc98978a9ecac44135"
+    },
+    "assets/img/apple-touch-icon.png": {
+      "bytes": 17572,
+      "sha256": "ff2b4a4d5d3666e09d4539c0db63fe88bd01cef90f5eabbbca1afc8bf14ea1fd"
+    },
+    "assets/img/favicon.svg": {
+      "bytes": 4389,
+      "sha256": "2a9c3b072ce17fb60c7ae5aaacff33f7afec312e9f5f925ac82b2dd591f0b093"
+    },
+    "assets/img/globe.svg": {
+      "bytes": 4394,
+      "sha256": "854c44495ed2f67f4b13661b78e73c486b521d11798b695c808c006186eb2a86"
+    },
+    "assets/img/icon-192.png": {
+      "bytes": 19225,
+      "sha256": "04810a7589073e1619154b1e20e91c5c70e0823f14001d33086cb2f736863152"
+    },
+    "assets/img/icon-512.png": {
+      "bytes": 28430,
+      "sha256": "6c7acfedfc4b5b10bf1cb9afa384be7f72fcb82a67df11123f889c8e9c161df6"
+    },
+    "assets/img/og.png": {
+      "bytes": 254988,
+      "sha256": "765a0485237049cf788c5c354244872315140bc61ab2e891059cbda5b270ab42"
+    },
+    "assets/js/chain.js": {
+      "bytes": 5189,
+      "sha256": "44c4f9bcb3f985d237cb330ebda1fec98e8757c821e26b6fd0ed7a252f81b33c"
+    },
+    "assets/js/gap.js": {
+      "bytes": 14072,
+      "sha256": "cbf50f120dd2f73c5c508fc9ae483afec9d904b1ccff0d218145d838343addbe"
+    },
+    "assets/js/site.js": {
+      "bytes": 28675,
+      "sha256": "449a2fa62aa6ff078e40158513b64c3aae8e42e62a9285ff7d55ff19a5c73451"
+    },
+    "assets/js/story.js": {
+      "bytes": 29920,
+      "sha256": "6baab12a762a36dfdadcf989cf749e919ef2c0d530334ff074d3cb5b233ba83e"
+    },
+    "assets/js/swarm.js": {
+      "bytes": 10059,
+      "sha256": "79f670cb1bc09efa60074460d71ad1d51166c8f4bf99a9fcca65b61e6841566e"
+    },
+    "evidence.html": {
+      "bytes": 22636,
+      "sha256": "daa3179db5c2730e7edbad52b13a8b6a59aa7cb1ac7d98fa325dd4cec5258f14"
+    },
+    "index.html": {
+      "bytes": 39154,
+      "sha256": "2a8c110a6ca2c9af3f4660459e47ef16573ba27642b1978decf321c524673030"
+    },
+    "insights.html": {
+      "bytes": 18244,
+      "sha256": "2a024bea07bac967387af1f418bef18a0cf063a2506180598a695bb46885835b"
+    },
+    "lifecycles.html": {
+      "bytes": 21211,
+      "sha256": "080422cecb1410c15e241e3a33451914d0fec0b9cebebce8557b4f8c88a66894"
+    },
+    "platform.html": {
+      "bytes": 26101,
+      "sha256": "df55fc3d990c08dd6adec31976430ca2a0ee713a1d4c9c5254064c98c9a599dc"
+    },
+    "robots.txt": {
+      "bytes": 69,
+      "sha256": "79650137339e3b53a9f01e46cd5ee5a91367412f35d5a14497ced0dfc4ab3471"
+    },
+    "site.webmanifest": {
+      "bytes": 401,
+      "sha256": "5df5db5ff1755f447198687f110e7b24862083f0c17395f602934af5a62dce4b"
+    },
+    "sitemap.xml": {
+      "bytes": 1122,
+      "sha256": "336a69fe3a2284435de94410d265b0a60807c1bf76e604546452a85e6769621a"
+    },
+    "trust.html": {
+      "bytes": 18416,
+      "sha256": "3334b439a5cd233933049527662a1e496b3c0a5e89d9c6d8ea30dc80e23f832f"
+    }
+  },
+  "provenance": "Built locally on 2026-09-21 from v1 (timely-quokka) + the v8 engines; verified with verify_v9.py. Not deployed to Netlify at the time of archiving."
+}

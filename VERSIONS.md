@@ -4,8 +4,9 @@ Every version of the OpenEXA site that was deployed to Netlify (Netlify Drop, te
 from the first deploy to the current one. Each `vN-...` folder is a complete, self-contained copy of that version:
 open its `index.html` directly or serve the folder with any static server.
 
-- **Current version: v8** (`v8-2026-09-15-heartfelt-valkyrie-f9cbf6`) - the exact source that is live at
-  <https://heartfelt-valkyrie-f9cbf6.netlify.app/>. Redeploy this folder for any future Netlify Drop.
+- **Current version: v9** (`v9-2026-09-21-ceo-cut`) - built from the CEO's preferred v1, not yet deployed.
+  Drop this folder onto Netlify to ship it. **Last deployed: v8** (`v8-2026-09-15-heartfelt-valkyrie-f9cbf6`),
+  live at <https://heartfelt-valkyrie-f9cbf6.netlify.app/>.
 - `_previews/` - homepage screenshot of every version (1440 x 900).
 - `_manifests/` - per-version file lists with SHA-256 checksums, restored-link counts and any server 404s.
 - `versions.json` - the same index in machine-readable form.
@@ -19,7 +20,8 @@ open its `index.html` directly or serve the folder with any static server.
 | **v5** | 2026-09-14 | [cheery-nasturtium-0799d0](https://cheery-nasturtium-0799d0.netlify.app) | Infrastructure for agentic lifecycles. | 8 | 24 | **Headline saved as shown; live objects.** Headline "Infrastructure for agentic lifecycles." Adds the live swarm (swarm.js) and the editable SHA-256 chain (chain.js) to the homepage. |
 | **v6** | 2026-09-15 | [celebrated-frangollo-b9d062](https://celebrated-frangollo-b9d062.netlify.app) | Infrastructure for agentic lifecycles. | 9 | 13 | **BROKEN DROP - HTML only.** Full-site redesign HTML (9 pages including the new Company page) but the assets/ folder was never uploaded: no CSS, JS or images, so the site renders unstyled (the white/blue Netlify thumbnail). Kept for the record; do not redeploy this one. |
 | **v7** | 2026-09-15 | [soft-blini-d36f10](https://soft-blini-d36f10.netlify.app) | Infrastructure for agentic lifecycles. | 9 | 29 | **Full-site redesign, complete.** Same HTML as v6 with all assets: interior.css, company.css/js, company-og.png, restyled Platform, Lifecycles, Proof, Trust, Company, Insights, Access and 404. Its _redirects rule made /company loop back to itself (301), so only /company.html worked. |
-| **v8** | 2026-09-15 (redeployed 2026-09-16) | [heartfelt-valkyrie-f9cbf6](https://heartfelt-valkyrie-f9cbf6.netlify.app) | Infrastructure for agentic lifecycles. | 9 | 30 | **CURRENT - routing fix.** No redirect rules (Netlify's built-in clean URLs serve /company), root-relative asset paths on the Company page, README updated. Deployed to heartfelt-valkyrie; verified byte-identical to the live site. This folder is the exact uploaded source. |
+| **v8** | 2026-09-15 (redeployed 2026-09-16) | [heartfelt-valkyrie-f9cbf6](https://heartfelt-valkyrie-f9cbf6.netlify.app) | Infrastructure for agentic lifecycles. | 9 | 30 | **Routing fix.** No redirect rules (Netlify's built-in clean URLs serve /company), root-relative asset paths on the Company page, README updated. Deployed to heartfelt-valkyrie; verified byte-identical to the live site. This folder is the exact uploaded source. |
+| **v9** | 2026-09-21 | (not yet deployed) | Infrastructure for agentic lifecycles. | 8 | 25 | **CURRENT - the CEO's cut (not yet deployed).** Built from v1, the CEO's preferred version: same dark overture into paper chapters, eight layers, ten-session proof, economics and roadmap. Company and Investors pages removed along with team bios, photos, phone, address and personal email. Every NASDAQ/NYSE mention and broker/clearing-house name removed; hero sub-line trimmed to the infrastructure sentence; ARR/AUM pitch figures and the BTC-yield/GTM sections dropped. Adds the live swarm, the SHA-256 chain and the desk; story engine gets glow, inertia, pause, keyboard chapters; hero figures moved under the copy; native cursor; accessible menu, safer form, launch metadata. Ship this folder. |
 
 ## How the copies were made
 

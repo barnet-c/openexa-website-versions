@@ -112,5 +112,17 @@
     ],
     "errors": [],
     "failed_requests": []
+  },
+  "v9-2026-09-21-ceo-cut": {
+    "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+    "nav": [
+      "platform.html",
+      "lifecycles.html",
+      "evidence.html",
+      "trust.html",
+      "insights.html"
+    ],
+    "errors": [],
+    "failed_requests": []
   }
 }
