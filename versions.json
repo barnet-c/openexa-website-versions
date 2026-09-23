@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-21",
-  "current_version": 10,
+  "current_version": 11,
   "last_deployed_version": 10,
   "versions": [
     {
@@ -618,7 +618,7 @@
       ],
       "summary": "The CEO's cut",
       "detail": "Built from v1, the CEO's preferred version: same dark overture into paper chapters, eight layers, ten-session proof, economics and roadmap. Company and Investors pages removed along with team bios, photos, phone, address and personal email. Every NASDAQ/NYSE mention and broker/clearing-house name removed; hero sub-line trimmed to the infrastructure sentence; ARR/AUM pitch figures and the BTC-yield/GTM sections dropped. Adds the live swarm, the SHA-256 chain and the desk; story engine gets glow, inertia, pause, keyboard chapters; hero figures moved under the copy; native cursor; accessible menu, safer form, launch metadata. Deployed 2026-09-21 as willowy-squirrel; verified identical to this folder.",
-      "live_status": "live (previous)",
+      "live_status": "live",
       "unresolved_references": 0,
       "provenance": "Built locally on 2026-09-21 from v1 (timely-quokka) + the v8 engines; verified with verify_v9.py. Deployed via Netlify Drop the same day (2:23 PM) as willowy-squirrel-0c1ad5; on 2026-09-21 the live deploy was verified against this folder: 16/16 non-HTML files byte-identical, 8/8 pages identical apart from Netlify's clean-URL link rewriting.",
       "preview": "_previews/v9-home.png",
@@ -664,12 +664,62 @@
         "sentiment.openexa.com",
         "www.openexa.com"
       ],
-      "summary": "CURRENT - research + company",
+      "summary": "Research + company",
       "detail": "v9 plus a Research section (research.html and ten articles: the two research notes first, then the eight-part series), an award-quality Company page (point-cloud sculpture with Specialize / Coordinate / Act modes, mission manifesto, story timeline, four constants), chapter 08 Research on the homepage, and figure.js - a WebGL point-cloud engine with twelve named formations that morph on hover and click. insights.html redirects to research.html; nav and footers link Research and Company; sitemap has 18 URLs. Built and verified 2026-09-21 (11 pages, 712 links); deployed the same day as silly-gelato; the live deploy was verified identical to this folder and smoke-tested in a browser.",
-      "live_status": "live - current",
+      "live_status": "live - latest deployed",
       "unresolved_references": 0,
       "provenance": "Built locally on 2026-09-21 from v9 (the CEO's cut): adds the Research section (research.html + ten articles, posts 9 and 10 first, then the series 1-8), the Company page, chapter 08 on the homepage and the figure.js point-cloud engine; insights.html became a redirect to research.html. Verified with verify_v9.py (11 pages), verify_editorial.py and linkcheck_tree.py (712 refs, 0 bad). Deployed via Netlify Drop the same day as silly-gelato-17a75a; on 2026-09-21 the live deploy was verified against this folder: 16/16 non-HTML files byte-identical, 20/20 pages identical apart from Netlify's clean-URL link rewriting; /company, /research and every article resolve at their clean URLs; a browser smoke test on the live site confirmed the figures render, the Company modes switch, the Research index morphs on hover and there are no console errors.",
       "preview": "_previews/v10-home.png",
+      "loads_locally_without_errors": true
+    },
+    {
+      "version": 11,
+      "date_published": "2026-09-23",
+      "netlify_site": "",
+      "url": "",
+      "folder": "v11-2026-09-23-team-resolution",
+      "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+      "headline": "Infrastructure for agentic lifecycles.",
+      "pages": [
+        "404.html",
+        "access.html",
+        "company.html",
+        "evidence.html",
+        "index.html",
+        "insights.html",
+        "lifecycles.html",
+        "platform.html",
+        "research/01-compounding-error.html",
+        "research/02-post-training-and-audit.html",
+        "research/03-not-tasks-lifecycles.html",
+        "research/04-five-thousand-small-agents.html",
+        "research/05-agents-decide-code-executes.html",
+        "research/06-post-training-on-a-rulebook.html",
+        "research/07-the-execution-council.html",
+        "research/08-a-ledger-nobody-can-edit.html",
+        "research/09-lifecycle-01-ten-sessions.html",
+        "research/10-master-and-copy.html",
+        "research.html",
+        "trust.html"
+      ],
+      "file_count": 44,
+      "total_bytes": 1156437,
+      "links_restored": {},
+      "server_404": [],
+      "external_hosts": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "sentiment.openexa.com",
+        "twitter.com",
+        "www.linkedin.com",
+        "www.openexa.com"
+      ],
+      "summary": "CURRENT - the team, at full resolution",
+      "detail": "v10 plus the team on the Company page (and nowhere else): the six people from the original site with roles, biographies and professional links; portraits framed and resampled to 560 px WebP masters, monochrome over a faint point grid, colour on hover. No address, phone or personal email. Every canvas now renders at full device resolution (up to 3x within a UHD pixel budget): story 20k points, figures 15k, finer lat/long grid on the brand mark, resolution-aware anti-aliased sprites, gaussian halo, highp fragments, hardware point-size clamp; 2D objects raised from 2x to 3x. Built and verified 2026-09-23 (11 pages, 718 links; team names on company.html and nowhere else); not yet deployed - drop OpenEXA-v11-team-resolution.zip on Netlify and record the site name.",
+      "live_status": "built, awaiting Netlify Drop",
+      "unresolved_references": 0,
+      "provenance": "Built locally on 2026-09-23 from v10: the team returns to the Company page only (six portraits from the original site, framed and resampled to 560 px WebP masters; roles, biographies, professional links; no address, phone or personal email), and every canvas renders at full device resolution (up to 3x within a UHD pixel budget; story 20k points, figures 15k; resolution-aware anti-aliased sprites, gaussian halo, highp fragments, hardware point-size clamp). Verified with verify_v9.py (11 pages; team names on company.html and nowhere else; 2x canvas backing stores), verify_editorial.py and linkcheck_tree.py (718 refs, 0 bad). Not yet deployed; drop the folder (or OpenEXA-v11-team-resolution.zip) on Netlify and record the site name here.",
+      "preview": "_previews/v11-home.png",
       "loads_locally_without_errors": true
     }
   ]
