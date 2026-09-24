@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-21",
-  "current_version": 11,
+  "current_version": 12,
   "last_deployed_version": 11,
   "versions": [
     {
@@ -714,12 +714,62 @@
         "www.linkedin.com",
         "www.openexa.com"
       ],
-      "summary": "CURRENT - the team, at full resolution",
+      "summary": "The team, at full resolution",
       "detail": "v10 plus the team on the Company page (and nowhere else): the six people from the original site with roles, biographies and professional links; portraits framed and resampled to 560 px WebP masters, monochrome over a faint point grid, colour on hover. No address, phone or personal email. Every canvas now renders at full device resolution (up to 3x within a UHD pixel budget): story 20k points, figures 15k, finer lat/long grid on the brand mark, resolution-aware anti-aliased sprites, gaussian halo, highp fragments, hardware point-size clamp; 2D objects raised from 2x to 3x. Built and verified 2026-09-23 (11 pages, 718 links; team names on company.html and nowhere else); deployed 2026-09-23 to timely-quokka (the CEO's original URL, replacing v1 there); the live deploy was verified identical to this folder and smoke-tested in a browser.",
-      "live_status": "live - current",
+      "live_status": "live - production on timely-quokka",
       "unresolved_references": 0,
       "provenance": "Built locally on 2026-09-23 from v10: the team returns to the Company page only (six portraits from the original site, framed and resampled to 560 px WebP masters; roles, biographies, professional links; no address, phone or personal email), and every canvas renders at full device resolution (up to 3x within a UHD pixel budget; story 20k points, figures 15k; resolution-aware anti-aliased sprites, gaussian halo, highp fragments, hardware point-size clamp). Verified with verify_v9.py (11 pages; team names on company.html and nowhere else; 2x canvas backing stores), verify_editorial.py and linkcheck_tree.py (718 refs, 0 bad). Deployed 2026-09-23 (21:32 UTC, deploy 6ab445625932ec800252cfac) to timely-quokka-fa2399 - the CEO's original URL, which previously served v1 (2026-09-03) and briefly v10 (2026-09-21, deploy 6ab1ad510f88f7d81db956c8). On 2026-09-24 the live deploy was verified against this folder: 22/22 non-HTML files byte-identical, 20/20 pages identical apart from Netlify's clean-URL link rewriting; a browser smoke test on the live site confirmed the team (six portraits) on /company and on no other page, the figures, the Company modes, the Research hover morph and zero console errors.",
       "preview": "_previews/v11-home.png",
+      "loads_locally_without_errors": true
+    },
+    {
+      "version": 12,
+      "date_published": "2026-09-24",
+      "netlify_site": "timely-quokka-fa2399 (draft 6ab5912f1ed8413ff25a98ce)",
+      "url": "https://6ab5912f1ed8413ff25a98ce--timely-quokka-fa2399.netlify.app",
+      "folder": "v12-2026-09-24-homepage-edits",
+      "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+      "headline": "Infrastructure for agentic lifecycles.",
+      "pages": [
+        "404.html",
+        "access.html",
+        "company.html",
+        "evidence.html",
+        "index.html",
+        "insights.html",
+        "lifecycles.html",
+        "platform.html",
+        "research/01-compounding-error.html",
+        "research/02-post-training-and-audit.html",
+        "research/03-not-tasks-lifecycles.html",
+        "research/04-five-thousand-small-agents.html",
+        "research/05-agents-decide-code-executes.html",
+        "research/06-post-training-on-a-rulebook.html",
+        "research/07-the-execution-council.html",
+        "research/08-a-ledger-nobody-can-edit.html",
+        "research/09-lifecycle-01-ten-sessions.html",
+        "research/10-master-and-copy.html",
+        "research.html",
+        "trust.html"
+      ],
+      "file_count": 44,
+      "total_bytes": 1154516,
+      "links_restored": {},
+      "server_404": [],
+      "external_hosts": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "sentiment.openexa.com",
+        "twitter.com",
+        "www.linkedin.com",
+        "www.openexa.com"
+      ],
+      "summary": "CURRENT - homepage edits (draft)",
+      "detail": "v11 with three homepage edits: the Lifecycle 01 headline says Trillions instead of $22 trillion (the Lifecycles page too); the fourth proof stat is 5 runs / lifecycle executions instead of $5M committed assets; chapter 07 Agentic platform evolution (the three-phase roadmap) is removed, so Research becomes chapter 07. Deployed 2026-09-24 via the Netlify CLI as a draft on timely-quokka; the draft was verified identical to this folder. Production still serves v11 until the draft is published.",
+      "live_status": "draft on timely-quokka - awaiting publish",
+      "unresolved_references": 0,
+      "provenance": "Built locally on 2026-09-24 from v11 with homepage edits requested by the user: the Lifecycle 01 headline \"$22 trillion in 17,000 ETFs\" became \"Trillions in 17,000 ETFs\" (the Lifecycles page says \"Trillions\" too); the fourth proof stat \"$5M / Committed assets / Beta program capital\" became \"5 / Runs / Lifecycle executions\"; chapter 07 \"Agentic platform evolution\" (the Phase 01-03 roadmap) was removed, so Research is now chapter 07 and the homepage has seven chapters. Verified with verify_v9.py, verify_editorial.py and linkcheck_tree.py (718 refs, 0 bad). Deployed 2026-09-24 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6ab5912f1ed8413ff25a98ce, https://6ab5912f1ed8413ff25a98ce--timely-quokka-fa2399.netlify.app); the production URL still serves v11 until the draft is published. On 2026-09-24 the draft was verified against this folder (22/22 assets byte-identical, 20/20 pages identical apart from link rewriting) and smoke-tested in a browser (7 chapters, team on /company only, 0 errors).",
+      "preview": "_previews/v12-home.png",
       "loads_locally_without_errors": true
     }
   ]

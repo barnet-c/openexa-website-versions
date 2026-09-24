@@ -4,10 +4,11 @@ Every version of the OpenEXA site that was deployed to Netlify (Netlify Drop, te
 from the first deploy to the current one. Each `vN-...` folder is a complete, self-contained copy of that version:
 open its `index.html` directly or serve the folder with any static server.
 
-- **Current version: v11** (`v11-2026-09-23-team-resolution`) - v10 plus the team on the Company page and every
-  object rendered at full device resolution, live at <https://timely-quokka-fa2399.netlify.app/> (the CEO's original
-  URL). This folder is the exact uploaded source and was verified identical to the live site; redeploy it (or
-  `OpenEXA-v11-team-resolution.zip`) for any future Netlify Drop.
+- **Current version: v12** (`v12-2026-09-24-homepage-edits`) - v11 with three homepage edits (Trillions, 5 runs,
+  the evolution roadmap removed). It is deployed as a **draft** on timely-quokka at
+  <https://6ab5912f1ed8413ff25a98ce--timely-quokka-fa2399.netlify.app/> and verified identical to this folder.
+- **Production: v11** (`v11-2026-09-23-team-resolution`) is still what <https://timely-quokka-fa2399.netlify.app/>
+  (the CEO's original URL) serves, until the v12 draft is published.
 - **timely-quokka no longer serves v1.** It served v1 from 2026-09-03, v10 briefly on 2026-09-21 and v11 since
   2026-09-23. `v1-2026-09-03-timely-quokka-fa2399/` here is now the only copy of the original.
 - v10 (`silly-gelato`), v9 (`willowy-squirrel`) and v8 (`heartfelt-valkyrie`) remain online at their own URLs.
@@ -27,7 +28,8 @@ open its `index.html` directly or serve the folder with any static server.
 | **v8** | 2026-09-15 (redeployed 2026-09-16) | [heartfelt-valkyrie-f9cbf6](https://heartfelt-valkyrie-f9cbf6.netlify.app) | Infrastructure for agentic lifecycles. | 9 | 30 | **Routing fix.** No redirect rules (Netlify's built-in clean URLs serve /company), root-relative asset paths on the Company page, README updated. Deployed to heartfelt-valkyrie; verified byte-identical to the live site. This folder is the exact uploaded source. |
 | **v9** | 2026-09-21 | [willowy-squirrel-0c1ad5](https://willowy-squirrel-0c1ad5.netlify.app) | Infrastructure for agentic lifecycles. | 8 | 25 | **The CEO's cut.** Built from v1, the CEO's preferred version: same dark overture into paper chapters, eight layers, ten-session proof, economics and roadmap. Company and Investors pages removed along with team bios, photos, phone, address and personal email. Every NASDAQ/NYSE mention and broker/clearing-house name removed; hero sub-line trimmed to the infrastructure sentence; ARR/AUM pitch figures and the BTC-yield/GTM sections dropped. Adds the live swarm, the SHA-256 chain and the desk; story engine gets glow, inertia, pause, keyboard chapters; hero figures moved under the copy; native cursor; accessible menu, safer form, launch metadata. Deployed 2026-09-21 as willowy-squirrel; verified identical to this folder. |
 | **v10** | 2026-09-21 | [silly-gelato-17a75a](https://silly-gelato-17a75a.netlify.app) | Infrastructure for agentic lifecycles. | 20 | 38 | **Research + company.** v9 plus a Research section (research.html and ten articles: the two research notes first, then the eight-part series), an award-quality Company page (point-cloud sculpture with Specialize / Coordinate / Act modes, mission manifesto, story timeline, four constants), chapter 08 Research on the homepage, and figure.js - a WebGL point-cloud engine with twelve named formations that morph on hover and click. insights.html redirects to research.html; nav and footers link Research and Company; sitemap has 18 URLs. Built and verified 2026-09-21 (11 pages, 712 links); deployed the same day as silly-gelato; the live deploy was verified identical to this folder and smoke-tested in a browser. |
-| **v11** | 2026-09-23 | [timely-quokka-fa2399](https://timely-quokka-fa2399.netlify.app) | Infrastructure for agentic lifecycles. | 20 | 44 | **CURRENT - the team, at full resolution.** v10 plus the team on the Company page (and nowhere else): the six people from the original site with roles, biographies and professional links; portraits framed and resampled to 560 px WebP masters, monochrome over a faint point grid, colour on hover. No address, phone or personal email. Every canvas now renders at full device resolution (up to 3x within a UHD pixel budget): story 20k points, figures 15k, finer lat/long grid on the brand mark, resolution-aware anti-aliased sprites, gaussian halo, highp fragments, hardware point-size clamp; 2D objects raised from 2x to 3x. Built and verified 2026-09-23 (11 pages, 718 links; team names on company.html and nowhere else); deployed 2026-09-23 to timely-quokka (the CEO's original URL, replacing v1 there); the live deploy was verified identical to this folder and smoke-tested in a browser. |
+| **v11** | 2026-09-23 | [timely-quokka-fa2399](https://timely-quokka-fa2399.netlify.app) | Infrastructure for agentic lifecycles. | 20 | 44 | **The team, at full resolution.** v10 plus the team on the Company page (and nowhere else): the six people from the original site with roles, biographies and professional links; portraits framed and resampled to 560 px WebP masters, monochrome over a faint point grid, colour on hover. No address, phone or personal email. Every canvas now renders at full device resolution (up to 3x within a UHD pixel budget): story 20k points, figures 15k, finer lat/long grid on the brand mark, resolution-aware anti-aliased sprites, gaussian halo, highp fragments, hardware point-size clamp; 2D objects raised from 2x to 3x. Built and verified 2026-09-23 (11 pages, 718 links; team names on company.html and nowhere else); deployed 2026-09-23 to timely-quokka (the CEO's original URL, replacing v1 there); the live deploy was verified identical to this folder and smoke-tested in a browser. |
+| **v12** | 2026-09-24 | [timely-quokka-fa2399 (draft 6ab5912f1ed8413ff25a98ce)](https://6ab5912f1ed8413ff25a98ce--timely-quokka-fa2399.netlify.app) | Infrastructure for agentic lifecycles. | 20 | 44 | **CURRENT - homepage edits (draft).** v11 with three homepage edits: the Lifecycle 01 headline says Trillions instead of $22 trillion (the Lifecycles page too); the fourth proof stat is 5 runs / lifecycle executions instead of $5M committed assets; chapter 07 Agentic platform evolution (the three-phase roadmap) is removed, so Research becomes chapter 07. Deployed 2026-09-24 via the Netlify CLI as a draft on timely-quokka; the draft was verified identical to this folder. Production still serves v11 until the draft is published. |
 
 ## How the copies were made
 
@@ -39,9 +41,9 @@ v8 was taken from the local source folder and verified against the live deploy: 
 byte-identical and all 9 pages are identical apart from Netlify's link re-serialization.
 
 v9 and v10 were built locally and each was verified identical to its live deploy after upload (assets byte-for-byte,
-pages apart from Netlify's link rewriting); v11 likewise, on timely-quokka.
+pages apart from Netlify's link rewriting); v11 likewise, on timely-quokka; v12 as a draft there.
 
-Each archived version was then opened in a browser from this folder: v1-v5 and v7-v11 load with zero console
+Each archived version was then opened in a browser from this folder: v1-v5 and v7-v12 load with zero console
 errors and no missing files. v6 fails exactly as the live deploy does, because its assets were never uploaded.
 
 ## Notes
