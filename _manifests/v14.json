@@ -1,0 +1,224 @@
+{
+  "version": 14,
+  "date_published": "2026-09-24",
+  "netlify_site": "timely-quokka-fa2399 (draft 6ab596ae2f2b7bbc2240f3a1)",
+  "url": "https://6ab596ae2f2b7bbc2240f3a1--timely-quokka-fa2399.netlify.app",
+  "folder": "v14-2026-09-24-company-edits",
+  "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+  "headline": "Infrastructure for agentic lifecycles.",
+  "pages": [
+    "404.html",
+    "access.html",
+    "company.html",
+    "evidence.html",
+    "index.html",
+    "insights.html",
+    "lifecycles.html",
+    "platform.html",
+    "research/01-compounding-error.html",
+    "research/02-post-training-and-audit.html",
+    "research/03-not-tasks-lifecycles.html",
+    "research/04-five-thousand-small-agents.html",
+    "research/05-agents-decide-code-executes.html",
+    "research/06-post-training-on-a-rulebook.html",
+    "research/07-the-execution-council.html",
+    "research/08-a-ledger-nobody-can-edit.html",
+    "research/09-lifecycle-01-ten-sessions.html",
+    "research/10-master-and-copy.html",
+    "research.html",
+    "trust.html"
+  ],
+  "file_count": 44,
+  "total_bytes": 1147248,
+  "links_restored": {},
+  "redirects": {},
+  "server_404": [],
+  "unresolved_references": [],
+  "external_hosts": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "sentiment.openexa.com",
+    "twitter.com",
+    "www.linkedin.com",
+    "www.openexa.com"
+  ],
+  "files": {
+    "404.html": {
+      "bytes": 5085,
+      "sha256": "f79e54252348c8a3d19cce1a42f39cdfd38937ca4302a130280a48fc3ddeb27e"
+    },
+    "_redirects": {
+      "bytes": 72,
+      "sha256": "2e2a1960b8d3cc52b40de4b07e3ef0c3c6c49b2c1ad0e818251825901e7cbcc2"
+    },
+    "access.html": {
+      "bytes": 13677,
+      "sha256": "59d4a27d289b022d9849b69cf0b8e477ea91aef464634719f96da5657d5a5326"
+    },
+    "assets/css/site.css": {
+      "bytes": 95017,
+      "sha256": "8decc61bf7a340c1cd39d3cdb9ec7b191c560bdccfdbd58e82c840d591b9c5d5"
+    },
+    "assets/img/apple-touch-icon.png": {
+      "bytes": 17572,
+      "sha256": "ff2b4a4d5d3666e09d4539c0db63fe88bd01cef90f5eabbbca1afc8bf14ea1fd"
+    },
+    "assets/img/favicon.svg": {
+      "bytes": 4389,
+      "sha256": "2a9c3b072ce17fb60c7ae5aaacff33f7afec312e9f5f925ac82b2dd591f0b093"
+    },
+    "assets/img/globe.svg": {
+      "bytes": 4394,
+      "sha256": "854c44495ed2f67f4b13661b78e73c486b521d11798b695c808c006186eb2a86"
+    },
+    "assets/img/icon-192.png": {
+      "bytes": 19225,
+      "sha256": "04810a7589073e1619154b1e20e91c5c70e0823f14001d33086cb2f736863152"
+    },
+    "assets/img/icon-512.png": {
+      "bytes": 28430,
+      "sha256": "6c7acfedfc4b5b10bf1cb9afa384be7f72fcb82a67df11123f889c8e9c161df6"
+    },
+    "assets/img/og.png": {
+      "bytes": 254988,
+      "sha256": "765a0485237049cf788c5c354244872315140bc61ab2e891059cbda5b270ab42"
+    },
+    "assets/img/team/ajit-dubey.webp": {
+      "bytes": 50290,
+      "sha256": "d73b8d568c5aa98f7ee672792df415fe384ee71728982139495a8bbb5585dbda"
+    },
+    "assets/img/team/barnet-sherman.webp": {
+      "bytes": 51282,
+      "sha256": "4c88667464c8159115085921aee5163e21ba05f3d1ff8050ec1546728dab667b"
+    },
+    "assets/img/team/mike-lockhart.webp": {
+      "bytes": 39804,
+      "sha256": "bbc7b8f7065e755c27050ccd128544885ec1ccb21eca5ddae76cdf2709e47ba7"
+    },
+    "assets/img/team/shalabh-choudhri.webp": {
+      "bytes": 48914,
+      "sha256": "5c74b630d886b5de66175ddc5e43815fe92707ce2a6a8176d1fab92d73523594"
+    },
+    "assets/img/team/tim-leung.webp": {
+      "bytes": 38604,
+      "sha256": "7c06bc2187f025036983e3c6a5e5d1a3f0c89b92be3aed356775c64d3317e35b"
+    },
+    "assets/img/team/victor-gamolsky.webp": {
+      "bytes": 46862,
+      "sha256": "717e63b714e4a810dd9f0b766cd01983146d248c3092f0a8e89adc4677c3ccea"
+    },
+    "assets/js/chain.js": {
+      "bytes": 5189,
+      "sha256": "44c4f9bcb3f985d237cb330ebda1fec98e8757c821e26b6fd0ed7a252f81b33c"
+    },
+    "assets/js/figure.js": {
+      "bytes": 24579,
+      "sha256": "dbb41ec00135b99b1a333cc83f826018817dbd20aefcc9945d275abb51d50e9a"
+    },
+    "assets/js/gap.js": {
+      "bytes": 14072,
+      "sha256": "421fa61f7dc21a8271b54b52c4f52df6476f74c75bb550c438d4e9426738d6d0"
+    },
+    "assets/js/site.js": {
+      "bytes": 28675,
+      "sha256": "9695be68a8e82cf256beae3b08c1cf239f22b3941d5713daa39fc1bf681c7df0"
+    },
+    "assets/js/story.js": {
+      "bytes": 31015,
+      "sha256": "93a49fb532e0f8440955fe81f268ad81b44dab3db212d8933d54391757c269ba"
+    },
+    "assets/js/swarm.js": {
+      "bytes": 10059,
+      "sha256": "263270dfd6e4adb19fee6acf55975927dce398fa9105f4b7333553817bd6ab9f"
+    },
+    "company.html": {
+      "bytes": 23253,
+      "sha256": "3a8634f836150c45f973b634da7f91784ab059e6258036c35d76b2a1ef54db26"
+    },
+    "evidence.html": {
+      "bytes": 17451,
+      "sha256": "df3ffd7b4c8d424b1189308081a430276a5e7a94b2d54da9a511122bd6894236"
+    },
+    "index.html": {
+      "bytes": 39716,
+      "sha256": "4eb081d88ed2bc0ddd7dc624bd807aff905609c78476c86526c5463f7e9bdf2c"
+    },
+    "insights.html": {
+      "bytes": 388,
+      "sha256": "ad52a3725f43c8f5a32267ca789f2f611c726fa205fc4246eb3e4fb88001632d"
+    },
+    "lifecycles.html": {
+      "bytes": 20624,
+      "sha256": "fcdacd6584a6b0280af832863deb1e1e53641307dd5c058a98f5699fc34aeb6e"
+    },
+    "platform.html": {
+      "bytes": 26232,
+      "sha256": "17c7b1cf130f87fcacbb996b9f9a966ed40d76774e05d499a8d6e527b7275b81"
+    },
+    "README.md": {
+      "bytes": 13128,
+      "sha256": "7de3dbb49f70d1cd1d5faed5cd2d0ef1c4c6449ecd3aed55f721d48daaae54f4"
+    },
+    "research/01-compounding-error.html": {
+      "bytes": 18508,
+      "sha256": "983d0a525a33f7b968c0a8bdd321f22250ebf5cac7903c8f8bba5440a179e743"
+    },
+    "research/02-post-training-and-audit.html": {
+      "bytes": 20015,
+      "sha256": "4722818f6e7ba7f531fbeb01c0f63656365d2250e808a65299e271b4d4fdb6e5"
+    },
+    "research/03-not-tasks-lifecycles.html": {
+      "bytes": 11948,
+      "sha256": "d3e8a2a1d357e094a76991d3768bc85603488cf840bedffc157c32c5d6caa730"
+    },
+    "research/04-five-thousand-small-agents.html": {
+      "bytes": 12033,
+      "sha256": "9d2fd8761b05ba38d94b5bc0641026a3150cc74b5b4c6e106564decadd75f5bb"
+    },
+    "research/05-agents-decide-code-executes.html": {
+      "bytes": 12207,
+      "sha256": "62e12098108966a2d25ba9694648d757698f35420e2c5fa9047f5be19b6aabc5"
+    },
+    "research/06-post-training-on-a-rulebook.html": {
+      "bytes": 12235,
+      "sha256": "9727ccef206aef1c1623aaabc39e268cc113b52e8d7113b9a444499bff5581ce"
+    },
+    "research/07-the-execution-council.html": {
+      "bytes": 11745,
+      "sha256": "f518f5df62a3d40be99cfa17caf37441a2ed960915afa369a9616bf8e9e35b92"
+    },
+    "research/08-a-ledger-nobody-can-edit.html": {
+      "bytes": 12179,
+      "sha256": "6df45c25f45fcaf198ae596242b42303a39449fe0056792d968e69503ffa7539"
+    },
+    "research/09-lifecycle-01-ten-sessions.html": {
+      "bytes": 12792,
+      "sha256": "a6bc0575500130883ecbb55c6b880b6f26eb31ff4486e308aa1d9a8ae4d87a44"
+    },
+    "research/10-master-and-copy.html": {
+      "bytes": 12320,
+      "sha256": "20940b71c843ca235564e58cf6f0dce9018df94d45e55a5e7764fcfe41e0ee34"
+    },
+    "research.html": {
+      "bytes": 18123,
+      "sha256": "64aed360434709180eed0f658854f6aa7286c3798851bf6a82c541e41c574430"
+    },
+    "robots.txt": {
+      "bytes": 69,
+      "sha256": "79650137339e3b53a9f01e46cd5ee5a91367412f35d5a14497ced0dfc4ab3471"
+    },
+    "site.webmanifest": {
+      "bytes": 401,
+      "sha256": "5df5db5ff1755f447198687f110e7b24862083f0c17395f602934af5a62dce4b"
+    },
+    "sitemap.xml": {
+      "bytes": 3003,
+      "sha256": "f49ef08c1c44cee522382374f7e8d06b2d923d98d68f56bfd23222b730dd1a2a"
+    },
+    "trust.html": {
+      "bytes": 16684,
+      "sha256": "d480ade2182ad9ee5702aeee0fcbec0cbcc9e0c54870894eb9b5e9f238303740"
+    }
+  },
+  "provenance": "Built locally on 2026-09-24 from v13 (which was never published) with Company-page edits requested by the user: the hero's \"put to work.\" is white instead of signal green (italic kept; hero only), and in the team section the third stat \"90% of Microsoft's revenue\" became \"100+ Research papers\" (alongside 14 patents and 5 books). Includes all v13 page edits (Lifecycles market strip, Proof 04-05, Trust 05 removed). Verified with verify_v9.py, verify_editorial.py and linkcheck_tree.py (0 bad). Deployed 2026-09-24 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6ab596ae2f2b7bbc2240f3a1, https://6ab596ae2f2b7bbc2240f3a1--timely-quokka-fa2399.netlify.app); production still serves v12 until the draft is published. The draft was verified against this folder (assets byte-identical, pages identical apart from link rewriting) and smoke-tested in a browser with zero errors."
+}
