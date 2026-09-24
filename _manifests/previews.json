@@ -163,5 +163,18 @@
     ],
     "errors": [],
     "failed_requests": []
+  },
+  "v13-2026-09-24-page-edits": {
+    "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+    "nav": [
+      "platform.html",
+      "lifecycles.html",
+      "evidence.html",
+      "trust.html",
+      "research.html",
+      "company.html"
+    ],
+    "errors": [],
+    "failed_requests": []
   }
 }

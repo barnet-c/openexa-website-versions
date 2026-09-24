@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-21",
-  "current_version": 12,
+  "current_version": 13,
   "last_deployed_version": 12,
   "versions": [
     {
@@ -764,12 +764,62 @@
         "www.linkedin.com",
         "www.openexa.com"
       ],
-      "summary": "CURRENT - homepage edits",
+      "summary": "Homepage edits",
       "detail": "v11 with three homepage edits: the Lifecycle 01 headline says Trillions instead of $22 trillion (the Lifecycles page too); the fourth proof stat is 5 runs / lifecycle executions instead of $5M committed assets; chapter 07 Agentic platform evolution (the three-phase roadmap) is removed, so Research becomes chapter 07. Deployed 2026-09-24 via the Netlify CLI as a draft on timely-quokka, verified, then published to production by promoting that same deploy; the production URL was verified identical to this folder and smoke-tested.",
-      "live_status": "live - current",
+      "live_status": "live - production on timely-quokka",
       "unresolved_references": 0,
       "provenance": "Built locally on 2026-09-24 from v11 with homepage edits requested by the user: the Lifecycle 01 headline \"$22 trillion in 17,000 ETFs\" became \"Trillions in 17,000 ETFs\" (the Lifecycles page says \"Trillions\" too); the fourth proof stat \"$5M / Committed assets / Beta program capital\" became \"5 / Runs / Lifecycle executions\"; chapter 07 \"Agentic platform evolution\" (the Phase 01-03 roadmap) was removed, so Research is now chapter 07 and the homepage has seven chapters. Verified with verify_v9.py, verify_editorial.py and linkcheck_tree.py (718 refs, 0 bad). Deployed 2026-09-24 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6ab5912f1ed8413ff25a98ce, https://6ab5912f1ed8413ff25a98ce--timely-quokka-fa2399.netlify.app); the production URL still serves v11 until the draft is published. On 2026-09-24 the draft was verified against this folder (22/22 assets byte-identical, 20/20 pages identical apart from link rewriting) and smoke-tested in a browser (7 chapters, team on /company only, 0 errors). Published to production the same day (2026-09-24 21:12 UTC) by promoting that exact draft deploy - no re-upload; the production URL was then verified against this folder the same way and smoke-tested with zero errors.",
       "preview": "_previews/v12-home.png",
+      "loads_locally_without_errors": true
+    },
+    {
+      "version": 13,
+      "date_published": "2026-09-24",
+      "netlify_site": "timely-quokka-fa2399 (draft 6ab594520619c4288018bcf5)",
+      "url": "https://6ab594520619c4288018bcf5--timely-quokka-fa2399.netlify.app",
+      "folder": "v13-2026-09-24-page-edits",
+      "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+      "headline": "Infrastructure for agentic lifecycles.",
+      "pages": [
+        "404.html",
+        "access.html",
+        "company.html",
+        "evidence.html",
+        "index.html",
+        "insights.html",
+        "lifecycles.html",
+        "platform.html",
+        "research/01-compounding-error.html",
+        "research/02-post-training-and-audit.html",
+        "research/03-not-tasks-lifecycles.html",
+        "research/04-five-thousand-small-agents.html",
+        "research/05-agents-decide-code-executes.html",
+        "research/06-post-training-on-a-rulebook.html",
+        "research/07-the-execution-council.html",
+        "research/08-a-ledger-nobody-can-edit.html",
+        "research/09-lifecycle-01-ten-sessions.html",
+        "research/10-master-and-copy.html",
+        "research.html",
+        "trust.html"
+      ],
+      "file_count": 44,
+      "total_bytes": 1146998,
+      "links_restored": {},
+      "server_404": [],
+      "external_hosts": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "sentiment.openexa.com",
+        "twitter.com",
+        "www.linkedin.com",
+        "www.openexa.com"
+      ],
+      "summary": "CURRENT - page edits (draft)",
+      "detail": "v12 with page edits: Lifecycles drops the four-figure market strip ($22T in ETFs, 17k ETFs, the 4-8% band, $0.0002 per dollar per day); Proof drops 04 Platform economics (ARR slider and table) and 05 Addressable market (TAM); Trust drops 05 Risk factors. Research unchanged. Deployed 2026-09-24 via the Netlify CLI as a draft on timely-quokka and verified identical to this folder; production still serves v12 until the draft is published.",
+      "live_status": "draft on timely-quokka - awaiting publish",
+      "unresolved_references": 0,
+      "provenance": "Built locally on 2026-09-24 from v12 with page edits requested by the user: Lifecycles drops the four-figure market strip ($22T assets in ETFs, 17k ETFs, the 4-8% band, $0.0002 per dollar per day; the section intro already read \"Trillions\" since v12); Proof (evidence.html) drops section 04 Platform economics (ARR slider and table) and 05 Addressable market (TAM rings) and now ends at 03 Why agents win; Trust drops section 05 Risk factors and ends at 04 Plain language. Research unchanged. Verified with verify_v9.py, verify_editorial.py and linkcheck_tree.py (0 bad). Deployed 2026-09-24 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6ab594520619c4288018bcf5, https://6ab594520619c4288018bcf5--timely-quokka-fa2399.netlify.app); production still serves v12 until the draft is published. The draft was verified against this folder (assets byte-identical, pages identical apart from link rewriting) and smoke-tested in a browser with zero errors.",
+      "preview": "_previews/v13-home.png",
       "loads_locally_without_errors": true
     }
   ]
