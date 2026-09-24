@@ -1,8 +1,8 @@
 {
   "version": 14,
   "date_published": "2026-09-24",
-  "netlify_site": "timely-quokka-fa2399 (draft 6ab596ae2f2b7bbc2240f3a1)",
-  "url": "https://6ab596ae2f2b7bbc2240f3a1--timely-quokka-fa2399.netlify.app",
+  "netlify_site": "timely-quokka-fa2399",
+  "url": "https://timely-quokka-fa2399.netlify.app",
   "folder": "v14-2026-09-24-company-edits",
   "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
   "headline": "Infrastructure for agentic lifecycles.",
@@ -220,5 +220,5 @@
       "sha256": "d480ade2182ad9ee5702aeee0fcbec0cbcc9e0c54870894eb9b5e9f238303740"
     }
   },
-  "provenance": "Built locally on 2026-09-24 from v13 (which was never published) with Company-page edits requested by the user: the hero's \"put to work.\" is white instead of signal green (italic kept; hero only), and in the team section the third stat \"90% of Microsoft's revenue\" became \"100+ Research papers\" (alongside 14 patents and 5 books). Includes all v13 page edits (Lifecycles market strip, Proof 04-05, Trust 05 removed). Verified with verify_v9.py, verify_editorial.py and linkcheck_tree.py (0 bad). Deployed 2026-09-24 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6ab596ae2f2b7bbc2240f3a1, https://6ab596ae2f2b7bbc2240f3a1--timely-quokka-fa2399.netlify.app); production still serves v12 until the draft is published. The draft was verified against this folder (assets byte-identical, pages identical apart from link rewriting) and smoke-tested in a browser with zero errors."
+  "provenance": "Built locally on 2026-09-24 from v13 (which was never published) with Company-page edits requested by the user: the hero's \"put to work.\" is white instead of signal green (italic kept; hero only), and in the team section the third stat \"90% of Microsoft's revenue\" became \"100+ Research papers\" (alongside 14 patents and 5 books). Includes all v13 page edits (Lifecycles market strip, Proof 04-05, Trust 05 removed). Verified with verify_v9.py, verify_editorial.py and linkcheck_tree.py (0 bad). Deployed 2026-09-24 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6ab596ae2f2b7bbc2240f3a1, https://6ab596ae2f2b7bbc2240f3a1--timely-quokka-fa2399.netlify.app); production still serves v12 until the draft is published. The draft was verified against this folder (assets byte-identical, pages identical apart from link rewriting) and smoke-tested in a browser with zero errors. Published to production the same day (2026-09-24 21:33 UTC) by promoting that exact draft deploy; the production URL was then verified against this folder the same way and smoke-tested with zero errors."
 }

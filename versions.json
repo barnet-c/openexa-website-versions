@@ -1,7 +1,7 @@
 {
   "generated": "2026-09-21",
   "current_version": 14,
-  "last_deployed_version": 12,
+  "last_deployed_version": 14,
   "versions": [
     {
       "version": 1,
@@ -766,7 +766,7 @@
       ],
       "summary": "Homepage edits",
       "detail": "v11 with three homepage edits: the Lifecycle 01 headline says Trillions instead of $22 trillion (the Lifecycles page too); the fourth proof stat is 5 runs / lifecycle executions instead of $5M committed assets; chapter 07 Agentic platform evolution (the three-phase roadmap) is removed, so Research becomes chapter 07. Deployed 2026-09-24 via the Netlify CLI as a draft on timely-quokka, verified, then published to production by promoting that same deploy; the production URL was verified identical to this folder and smoke-tested.",
-      "live_status": "live - production on timely-quokka",
+      "live_status": "replaced on timely-quokka by v14",
       "unresolved_references": 0,
       "provenance": "Built locally on 2026-09-24 from v11 with homepage edits requested by the user: the Lifecycle 01 headline \"$22 trillion in 17,000 ETFs\" became \"Trillions in 17,000 ETFs\" (the Lifecycles page says \"Trillions\" too); the fourth proof stat \"$5M / Committed assets / Beta program capital\" became \"5 / Runs / Lifecycle executions\"; chapter 07 \"Agentic platform evolution\" (the Phase 01-03 roadmap) was removed, so Research is now chapter 07 and the homepage has seven chapters. Verified with verify_v9.py, verify_editorial.py and linkcheck_tree.py (718 refs, 0 bad). Deployed 2026-09-24 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6ab5912f1ed8413ff25a98ce, https://6ab5912f1ed8413ff25a98ce--timely-quokka-fa2399.netlify.app); the production URL still serves v11 until the draft is published. On 2026-09-24 the draft was verified against this folder (22/22 assets byte-identical, 20/20 pages identical apart from link rewriting) and smoke-tested in a browser (7 chapters, team on /company only, 0 errors). Published to production the same day (2026-09-24 21:12 UTC) by promoting that exact draft deploy - no re-upload; the production URL was then verified against this folder the same way and smoke-tested with zero errors.",
       "preview": "_previews/v12-home.png",
@@ -825,8 +825,8 @@
     {
       "version": 14,
       "date_published": "2026-09-24",
-      "netlify_site": "timely-quokka-fa2399 (draft 6ab596ae2f2b7bbc2240f3a1)",
-      "url": "https://6ab596ae2f2b7bbc2240f3a1--timely-quokka-fa2399.netlify.app",
+      "netlify_site": "timely-quokka-fa2399",
+      "url": "https://timely-quokka-fa2399.netlify.app",
       "folder": "v14-2026-09-24-company-edits",
       "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
       "headline": "Infrastructure for agentic lifecycles.",
@@ -864,11 +864,11 @@
         "www.linkedin.com",
         "www.openexa.com"
       ],
-      "summary": "CURRENT - company edits (draft)",
-      "detail": "v13 plus two Company-page edits: the hero's put to work. is white instead of green (hero only), and the team section's third stat is 100+ research papers instead of 90% of Microsoft's revenue. Includes the v13 page edits. Deployed 2026-09-24 via the Netlify CLI as a draft on timely-quokka and verified identical to this folder; production still serves v12 until the draft is published.",
-      "live_status": "draft on timely-quokka - awaiting publish",
+      "summary": "CURRENT - company edits",
+      "detail": "v13 plus two Company-page edits: the hero's put to work. is white instead of green (hero only), and the team section's third stat is 100+ research papers instead of 90% of Microsoft's revenue. Includes the v13 page edits. Deployed 2026-09-24 via the Netlify CLI as a draft on timely-quokka, verified, then published by promoting that same deploy; production verified identical to this folder and smoke-tested.",
+      "live_status": "live - current",
       "unresolved_references": 0,
-      "provenance": "Built locally on 2026-09-24 from v13 (which was never published) with Company-page edits requested by the user: the hero's \"put to work.\" is white instead of signal green (italic kept; hero only), and in the team section the third stat \"90% of Microsoft's revenue\" became \"100+ Research papers\" (alongside 14 patents and 5 books). Includes all v13 page edits (Lifecycles market strip, Proof 04-05, Trust 05 removed). Verified with verify_v9.py, verify_editorial.py and linkcheck_tree.py (0 bad). Deployed 2026-09-24 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6ab596ae2f2b7bbc2240f3a1, https://6ab596ae2f2b7bbc2240f3a1--timely-quokka-fa2399.netlify.app); production still serves v12 until the draft is published. The draft was verified against this folder (assets byte-identical, pages identical apart from link rewriting) and smoke-tested in a browser with zero errors.",
+      "provenance": "Built locally on 2026-09-24 from v13 (which was never published) with Company-page edits requested by the user: the hero's \"put to work.\" is white instead of signal green (italic kept; hero only), and in the team section the third stat \"90% of Microsoft's revenue\" became \"100+ Research papers\" (alongside 14 patents and 5 books). Includes all v13 page edits (Lifecycles market strip, Proof 04-05, Trust 05 removed). Verified with verify_v9.py, verify_editorial.py and linkcheck_tree.py (0 bad). Deployed 2026-09-24 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6ab596ae2f2b7bbc2240f3a1, https://6ab596ae2f2b7bbc2240f3a1--timely-quokka-fa2399.netlify.app); production still serves v12 until the draft is published. The draft was verified against this folder (assets byte-identical, pages identical apart from link rewriting) and smoke-tested in a browser with zero errors. Published to production the same day (2026-09-24 21:33 UTC) by promoting that exact draft deploy; the production URL was then verified against this folder the same way and smoke-tested with zero errors.",
       "preview": "_previews/v14-home.png",
       "loads_locally_without_errors": true
     }
