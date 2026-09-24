@@ -1,8 +1,8 @@
 {
   "version": 11,
   "date_published": "2026-09-23",
-  "netlify_site": "",
-  "url": "",
+  "netlify_site": "timely-quokka-fa2399",
+  "url": "https://timely-quokka-fa2399.netlify.app",
   "folder": "v11-2026-09-23-team-resolution",
   "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
   "headline": "Infrastructure for agentic lifecycles.",
@@ -220,5 +220,5 @@
       "sha256": "b4a659a443c30f75152f27ecae28e4f52b2dd592ee0f5234c15eb6062341b449"
     }
   },
-  "provenance": "Built locally on 2026-09-23 from v10: the team returns to the Company page only (six portraits from the original site, framed and resampled to 560 px WebP masters; roles, biographies, professional links; no address, phone or personal email), and every canvas renders at full device resolution (up to 3x within a UHD pixel budget; story 20k points, figures 15k; resolution-aware anti-aliased sprites, gaussian halo, highp fragments, hardware point-size clamp). Verified with verify_v9.py (11 pages; team names on company.html and nowhere else; 2x canvas backing stores), verify_editorial.py and linkcheck_tree.py (718 refs, 0 bad). Not yet deployed; drop the folder (or OpenEXA-v11-team-resolution.zip) on Netlify and record the site name here."
+  "provenance": "Built locally on 2026-09-23 from v10: the team returns to the Company page only (six portraits from the original site, framed and resampled to 560 px WebP masters; roles, biographies, professional links; no address, phone or personal email), and every canvas renders at full device resolution (up to 3x within a UHD pixel budget; story 20k points, figures 15k; resolution-aware anti-aliased sprites, gaussian halo, highp fragments, hardware point-size clamp). Verified with verify_v9.py (11 pages; team names on company.html and nowhere else; 2x canvas backing stores), verify_editorial.py and linkcheck_tree.py (718 refs, 0 bad). Deployed 2026-09-23 (21:32 UTC, deploy 6ab445625932ec800252cfac) to timely-quokka-fa2399 - the CEO's original URL, which previously served v1 (2026-09-03) and briefly v10 (2026-09-21, deploy 6ab1ad510f88f7d81db956c8). On 2026-09-24 the live deploy was verified against this folder: 22/22 non-HTML files byte-identical, 20/20 pages identical apart from Netlify's clean-URL link rewriting; a browser smoke test on the live site confirmed the team (six portraits) on /company and on no other page, the figures, the Company modes, the Research hover morph and zero console errors."
 }
