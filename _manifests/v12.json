@@ -1,8 +1,8 @@
 {
   "version": 12,
   "date_published": "2026-09-24",
-  "netlify_site": "timely-quokka-fa2399 (draft 6ab5912f1ed8413ff25a98ce)",
-  "url": "https://6ab5912f1ed8413ff25a98ce--timely-quokka-fa2399.netlify.app",
+  "netlify_site": "timely-quokka-fa2399",
+  "url": "https://timely-quokka-fa2399.netlify.app",
   "folder": "v12-2026-09-24-homepage-edits",
   "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
   "headline": "Infrastructure for agentic lifecycles.",
@@ -220,5 +220,5 @@
       "sha256": "b4a659a443c30f75152f27ecae28e4f52b2dd592ee0f5234c15eb6062341b449"
     }
   },
-  "provenance": "Built locally on 2026-09-24 from v11 with homepage edits requested by the user: the Lifecycle 01 headline \"$22 trillion in 17,000 ETFs\" became \"Trillions in 17,000 ETFs\" (the Lifecycles page says \"Trillions\" too); the fourth proof stat \"$5M / Committed assets / Beta program capital\" became \"5 / Runs / Lifecycle executions\"; chapter 07 \"Agentic platform evolution\" (the Phase 01-03 roadmap) was removed, so Research is now chapter 07 and the homepage has seven chapters. Verified with verify_v9.py, verify_editorial.py and linkcheck_tree.py (718 refs, 0 bad). Deployed 2026-09-24 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6ab5912f1ed8413ff25a98ce, https://6ab5912f1ed8413ff25a98ce--timely-quokka-fa2399.netlify.app); the production URL still serves v11 until the draft is published. On 2026-09-24 the draft was verified against this folder (22/22 assets byte-identical, 20/20 pages identical apart from link rewriting) and smoke-tested in a browser (7 chapters, team on /company only, 0 errors)."
+  "provenance": "Built locally on 2026-09-24 from v11 with homepage edits requested by the user: the Lifecycle 01 headline \"$22 trillion in 17,000 ETFs\" became \"Trillions in 17,000 ETFs\" (the Lifecycles page says \"Trillions\" too); the fourth proof stat \"$5M / Committed assets / Beta program capital\" became \"5 / Runs / Lifecycle executions\"; chapter 07 \"Agentic platform evolution\" (the Phase 01-03 roadmap) was removed, so Research is now chapter 07 and the homepage has seven chapters. Verified with verify_v9.py, verify_editorial.py and linkcheck_tree.py (718 refs, 0 bad). Deployed 2026-09-24 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6ab5912f1ed8413ff25a98ce, https://6ab5912f1ed8413ff25a98ce--timely-quokka-fa2399.netlify.app); the production URL still serves v11 until the draft is published. On 2026-09-24 the draft was verified against this folder (22/22 assets byte-identical, 20/20 pages identical apart from link rewriting) and smoke-tested in a browser (7 chapters, team on /company only, 0 errors). Published to production the same day (2026-09-24 21:12 UTC) by promoting that exact draft deploy - no re-upload; the production URL was then verified against this folder the same way and smoke-tested with zero errors."
 }
