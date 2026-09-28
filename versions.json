@@ -1,7 +1,7 @@
 {
   "generated": "2026-09-21",
   "current_version": 15,
-  "last_deployed_version": 14,
+  "last_deployed_version": 15,
   "versions": [
     {
       "version": 1,
@@ -866,7 +866,7 @@
       ],
       "summary": "Company edits",
       "detail": "v13 plus two Company-page edits: the hero's put to work. is white instead of green (hero only), and the team section's third stat is 100+ research papers instead of 90% of Microsoft's revenue. Includes the v13 page edits. Deployed 2026-09-24 via the Netlify CLI as a draft on timely-quokka, verified, then published by promoting that same deploy; production verified identical to this folder and smoke-tested.",
-      "live_status": "live - production on timely-quokka",
+      "live_status": "replaced on timely-quokka by v15",
       "unresolved_references": 0,
       "provenance": "Built locally on 2026-09-24 from v13 (which was never published) with Company-page edits requested by the user: the hero's \"put to work.\" is white instead of signal green (italic kept; hero only), and in the team section the third stat \"90% of Microsoft's revenue\" became \"100+ Research papers\" (alongside 14 patents and 5 books). Includes all v13 page edits (Lifecycles market strip, Proof 04-05, Trust 05 removed). Verified with verify_v9.py, verify_editorial.py and linkcheck_tree.py (0 bad). Deployed 2026-09-24 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6ab596ae2f2b7bbc2240f3a1, https://6ab596ae2f2b7bbc2240f3a1--timely-quokka-fa2399.netlify.app); production still serves v12 until the draft is published. The draft was verified against this folder (assets byte-identical, pages identical apart from link rewriting) and smoke-tested in a browser with zero errors. Published to production the same day (2026-09-24 21:33 UTC) by promoting that exact draft deploy; the production URL was then verified against this folder the same way and smoke-tested with zero errors.",
       "preview": "_previews/v14-home.png",
@@ -875,8 +875,8 @@
     {
       "version": 15,
       "date_published": "2026-09-28",
-      "netlify_site": "timely-quokka-fa2399 (draft 6abad6a36c7d1b738054c701)",
-      "url": "https://6abad6a36c7d1b738054c701--timely-quokka-fa2399.netlify.app",
+      "netlify_site": "timely-quokka-fa2399",
+      "url": "https://timely-quokka-fa2399.netlify.app",
       "folder": "v15-2026-09-28-blog",
       "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
       "headline": "Infrastructure for agentic lifecycles.",
@@ -976,11 +976,11 @@
         "www.weather.gov",
         "www.worldscientific.com"
       ],
-      "summary": "CURRENT - the blog (draft)",
-      "detail": "v14 plus research/blog/: the old openexa.com blog imported - 36 of 51 posts in four collections (AI & agents, financial markets research, market structure & economics, municipal markets), old slugs kept; the 15 crypto/token-product posts held back. Adds the Google Scholar link (More on financial markets research) to Dr. Tim Leung's card, the Research page and the blog; a Blog link in every footer; and redirects for every URL of the old openexa.com site so the domain can move. Deployed 2026-09-28 as a draft on timely-quokka and verified; production still serves v14 until the draft is published.",
-      "live_status": "draft on timely-quokka - awaiting publish",
+      "summary": "CURRENT - the blog",
+      "detail": "v14 plus research/blog/: the old openexa.com blog imported - 36 of 51 posts in four collections (AI & agents, financial markets research, market structure & economics, municipal markets), old slugs kept; the 15 crypto/token-product posts held back. Adds the Google Scholar link (More on financial markets research) to Dr. Tim Leung's card, the Research page and the blog; a Blog link in every footer; and redirects for every URL of the old openexa.com site so the domain can move. Deployed 2026-09-28 as a draft on timely-quokka, verified, then published by promoting that same deploy; production verified identical to this folder, redirects re-checked, smoke-tested.",
+      "live_status": "live - current",
       "unresolved_references": 0,
-      "provenance": "Built locally on 2026-09-28 from v14: adds research/blog/ - the old openexa.com blog imported (36 of 51 posts in four collections: AI & agents, Financial markets research, Market structure & economics, Municipal markets & commentary; 34 post pages at their old slugs plus two outbound link cards). The 15 crypto/token-product posts of 2023-24 are held back (EXCLUDE in build_blog.py) and redirect to the blog index. Adds \"More on financial markets research\" (Google Scholar, Dr. Tim Leung) to his team card, the Research page (new section 03 The blog) and the blog's markets collection; a Blog link in every footer; and _redirects mapping every URL of the old openexa.com site (/blog/<slug>, /strategies, /trust-risk, /status, /for-managers, /for-investors, /beta) to its new home. Verified with verify_v9.py (14 pages incl. blog), verify_editorial.py, linkcheck_tree.py (2191 refs, 0 bad) and verify_redirects.py (59/59). Deployed 2026-09-28 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6abad6a36c7d1b738054c701, https://6abad6a36c7d1b738054c701--timely-quokka-fa2399.netlify.app); production still serves v14 until the draft is published. The draft was verified against this folder (80 assets byte-identical, 55 pages identical apart from link rewriting), all 59 old-site redirects were checked on it, and it was smoke-tested in a browser with zero errors.",
+      "provenance": "Built locally on 2026-09-28 from v14: adds research/blog/ - the old openexa.com blog imported (36 of 51 posts in four collections: AI & agents, Financial markets research, Market structure & economics, Municipal markets & commentary; 34 post pages at their old slugs plus two outbound link cards). The 15 crypto/token-product posts of 2023-24 are held back (EXCLUDE in build_blog.py) and redirect to the blog index. Adds \"More on financial markets research\" (Google Scholar, Dr. Tim Leung) to his team card, the Research page (new section 03 The blog) and the blog's markets collection; a Blog link in every footer; and _redirects mapping every URL of the old openexa.com site (/blog/<slug>, /strategies, /trust-risk, /status, /for-managers, /for-investors, /beta) to its new home. Verified with verify_v9.py (14 pages incl. blog), verify_editorial.py, linkcheck_tree.py (2191 refs, 0 bad) and verify_redirects.py (59/59). Deployed 2026-09-28 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6abad6a36c7d1b738054c701, https://6abad6a36c7d1b738054c701--timely-quokka-fa2399.netlify.app); production still serves v14 until the draft is published. The draft was verified against this folder (80 assets byte-identical, 55 pages identical apart from link rewriting), all 59 old-site redirects were checked on it, and it was smoke-tested in a browser with zero errors. Published to production the same day (2026-09-28 21:13 UTC) by promoting that exact draft deploy; production was then verified against this folder, all 59 redirects re-checked, and smoke-tested with zero errors.",
       "preview": "_previews/v15-home.png",
       "loads_locally_without_errors": true
     }
