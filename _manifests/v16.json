@@ -1,8 +1,8 @@
 {
   "version": 16,
   "date_published": "2026-09-28",
-  "netlify_site": "timely-quokka-fa2399 (draft 6abae08351b0252aa4c5a358)",
-  "url": "https://6abae08351b0252aa4c5a358--timely-quokka-fa2399.netlify.app",
+  "netlify_site": "timely-quokka-fa2399",
+  "url": "https://timely-quokka-fa2399.netlify.app",
   "folder": "v16-2026-09-28-gen-ai-series",
   "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
   "headline": "Infrastructure for agentic lifecycles.",
@@ -654,5 +654,5 @@
       "sha256": "9894e8c02c02b8ddf434823f686dd6e2b4880ab10681189c2d996ccfa9356a6a"
     }
   },
-  "provenance": "Built locally on 2026-09-28 from v15: Ajit K Dubey's four 2024 posts that cross-link one another (the Gen-AI business-model introduction and the three-part finance series: relative value analysis, guardrails and tearsheets, AI copilots and agents) become \"The Gen-AI series\" - featured at the top of the blog (shown under All and AI & agents), each post labelled with its part, a series list in the side column with the current part marked, and a pager that walks the series in order; the Research page's blog section links to it. Verified with verify_v9.py (series checks added), verify_editorial.py and linkcheck_tree.py (2221 refs, 0 bad). Deployed 2026-09-28 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6abae08351b0252aa4c5a358, https://6abae08351b0252aa4c5a358--timely-quokka-fa2399.netlify.app); production still serves v15 until the draft is published. The draft was verified against this folder (assets byte-identical, pages identical apart from link rewriting), 59/59 old-site redirects checked, and smoke-tested in a browser with zero errors."
+  "provenance": "Built locally on 2026-09-28 from v15: Ajit K Dubey's four 2024 posts that cross-link one another (the Gen-AI business-model introduction and the three-part finance series: relative value analysis, guardrails and tearsheets, AI copilots and agents) become \"The Gen-AI series\" - featured at the top of the blog (shown under All and AI & agents), each post labelled with its part, a series list in the side column with the current part marked, and a pager that walks the series in order; the Research page's blog section links to it. Verified with verify_v9.py (series checks added), verify_editorial.py and linkcheck_tree.py (2221 refs, 0 bad). Deployed 2026-09-28 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6abae08351b0252aa4c5a358, https://6abae08351b0252aa4c5a358--timely-quokka-fa2399.netlify.app); production still serves v15 until the draft is published. The draft was verified against this folder (assets byte-identical, pages identical apart from link rewriting), 59/59 old-site redirects checked, and smoke-tested in a browser with zero errors. Published to production the same day (2026-09-28 21:52 UTC) by promoting that exact draft deploy; production was then verified against this folder, all 59 redirects re-checked, and smoke-tested with zero errors."
 }

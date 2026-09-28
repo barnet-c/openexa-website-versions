@@ -1,7 +1,7 @@
 {
   "generated": "2026-09-21",
   "current_version": 16,
-  "last_deployed_version": 15,
+  "last_deployed_version": 16,
   "versions": [
     {
       "version": 1,
@@ -978,7 +978,7 @@
       ],
       "summary": "The blog",
       "detail": "v14 plus research/blog/: the old openexa.com blog imported - 36 of 51 posts in four collections (AI & agents, financial markets research, market structure & economics, municipal markets), old slugs kept; the 15 crypto/token-product posts held back. Adds the Google Scholar link (More on financial markets research) to Dr. Tim Leung's card, the Research page and the blog; a Blog link in every footer; and redirects for every URL of the old openexa.com site so the domain can move. Deployed 2026-09-28 as a draft on timely-quokka, verified, then published by promoting that same deploy; production verified identical to this folder, redirects re-checked, smoke-tested.",
-      "live_status": "live - production on timely-quokka",
+      "live_status": "replaced on timely-quokka by v16",
       "unresolved_references": 0,
       "provenance": "Built locally on 2026-09-28 from v14: adds research/blog/ - the old openexa.com blog imported (36 of 51 posts in four collections: AI & agents, Financial markets research, Market structure & economics, Municipal markets & commentary; 34 post pages at their old slugs plus two outbound link cards). The 15 crypto/token-product posts of 2023-24 are held back (EXCLUDE in build_blog.py) and redirect to the blog index. Adds \"More on financial markets research\" (Google Scholar, Dr. Tim Leung) to his team card, the Research page (new section 03 The blog) and the blog's markets collection; a Blog link in every footer; and _redirects mapping every URL of the old openexa.com site (/blog/<slug>, /strategies, /trust-risk, /status, /for-managers, /for-investors, /beta) to its new home. Verified with verify_v9.py (14 pages incl. blog), verify_editorial.py, linkcheck_tree.py (2191 refs, 0 bad) and verify_redirects.py (59/59). Deployed 2026-09-28 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6abad6a36c7d1b738054c701, https://6abad6a36c7d1b738054c701--timely-quokka-fa2399.netlify.app); production still serves v14 until the draft is published. The draft was verified against this folder (80 assets byte-identical, 55 pages identical apart from link rewriting), all 59 old-site redirects were checked on it, and it was smoke-tested in a browser with zero errors. Published to production the same day (2026-09-28 21:13 UTC) by promoting that exact draft deploy; production was then verified against this folder, all 59 redirects re-checked, and smoke-tested with zero errors.",
       "preview": "_previews/v15-home.png",
@@ -987,8 +987,8 @@
     {
       "version": 16,
       "date_published": "2026-09-28",
-      "netlify_site": "timely-quokka-fa2399 (draft 6abae08351b0252aa4c5a358)",
-      "url": "https://6abae08351b0252aa4c5a358--timely-quokka-fa2399.netlify.app",
+      "netlify_site": "timely-quokka-fa2399",
+      "url": "https://timely-quokka-fa2399.netlify.app",
       "folder": "v16-2026-09-28-gen-ai-series",
       "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
       "headline": "Infrastructure for agentic lifecycles.",
@@ -1088,11 +1088,11 @@
         "www.weather.gov",
         "www.worldscientific.com"
       ],
-      "summary": "CURRENT - featured Gen-AI series (draft)",
-      "detail": "v15 with Ajit K Dubey's four cross-linked 2024 posts presented as The Gen-AI series: featured at the top of the blog, each post labelled with its part, a series list with the current part marked, and a pager that walks the series in order; linked from the Research page. Deployed 2026-09-28 as a draft on timely-quokka and verified; production still serves v15 until the draft is published.",
-      "live_status": "draft on timely-quokka - awaiting publish",
+      "summary": "CURRENT - featured Gen-AI series",
+      "detail": "v15 with Ajit K Dubey's four cross-linked 2024 posts presented as The Gen-AI series: featured at the top of the blog, each post labelled with its part, a series list with the current part marked, and a pager that walks the series in order; linked from the Research page. Deployed 2026-09-28 as a draft on timely-quokka, verified, then published by promoting that same deploy; production verified identical to this folder, redirects re-checked, smoke-tested.",
+      "live_status": "live - current",
       "unresolved_references": 0,
-      "provenance": "Built locally on 2026-09-28 from v15: Ajit K Dubey's four 2024 posts that cross-link one another (the Gen-AI business-model introduction and the three-part finance series: relative value analysis, guardrails and tearsheets, AI copilots and agents) become \"The Gen-AI series\" - featured at the top of the blog (shown under All and AI & agents), each post labelled with its part, a series list in the side column with the current part marked, and a pager that walks the series in order; the Research page's blog section links to it. Verified with verify_v9.py (series checks added), verify_editorial.py and linkcheck_tree.py (2221 refs, 0 bad). Deployed 2026-09-28 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6abae08351b0252aa4c5a358, https://6abae08351b0252aa4c5a358--timely-quokka-fa2399.netlify.app); production still serves v15 until the draft is published. The draft was verified against this folder (assets byte-identical, pages identical apart from link rewriting), 59/59 old-site redirects checked, and smoke-tested in a browser with zero errors.",
+      "provenance": "Built locally on 2026-09-28 from v15: Ajit K Dubey's four 2024 posts that cross-link one another (the Gen-AI business-model introduction and the three-part finance series: relative value analysis, guardrails and tearsheets, AI copilots and agents) become \"The Gen-AI series\" - featured at the top of the blog (shown under All and AI & agents), each post labelled with its part, a series list in the side column with the current part marked, and a pager that walks the series in order; the Research page's blog section links to it. Verified with verify_v9.py (series checks added), verify_editorial.py and linkcheck_tree.py (2221 refs, 0 bad). Deployed 2026-09-28 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6abae08351b0252aa4c5a358, https://6abae08351b0252aa4c5a358--timely-quokka-fa2399.netlify.app); production still serves v15 until the draft is published. The draft was verified against this folder (assets byte-identical, pages identical apart from link rewriting), 59/59 old-site redirects checked, and smoke-tested in a browser with zero errors. Published to production the same day (2026-09-28 21:52 UTC) by promoting that exact draft deploy; production was then verified against this folder, all 59 redirects re-checked, and smoke-tested with zero errors.",
       "preview": "_previews/v16-home.png",
       "loads_locally_without_errors": true
     }
