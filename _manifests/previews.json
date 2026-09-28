@@ -202,5 +202,18 @@
     ],
     "errors": [],
     "failed_requests": []
+  },
+  "v16-2026-09-28-gen-ai-series": {
+    "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+    "nav": [
+      "platform.html",
+      "lifecycles.html",
+      "evidence.html",
+      "trust.html",
+      "research.html",
+      "company.html"
+    ],
+    "errors": [],
+    "failed_requests": []
   }
 }
