@@ -1,0 +1,658 @@
+{
+  "version": 15,
+  "date_published": "2026-09-28",
+  "netlify_site": "timely-quokka-fa2399 (draft 6abad6a36c7d1b738054c701)",
+  "url": "https://6abad6a36c7d1b738054c701--timely-quokka-fa2399.netlify.app",
+  "folder": "v15-2026-09-28-blog",
+  "title": "OpenEXA \u2014 Infrastructure for agentic lifecycles",
+  "headline": "Infrastructure for agentic lifecycles.",
+  "pages": [
+    "404.html",
+    "access.html",
+    "company.html",
+    "evidence.html",
+    "index.html",
+    "insights.html",
+    "lifecycles.html",
+    "platform.html",
+    "research/01-compounding-error.html",
+    "research/02-post-training-and-audit.html",
+    "research/03-not-tasks-lifecycles.html",
+    "research/04-five-thousand-small-agents.html",
+    "research/05-agents-decide-code-executes.html",
+    "research/06-post-training-on-a-rulebook.html",
+    "research/07-the-execution-council.html",
+    "research/08-a-ledger-nobody-can-edit.html",
+    "research/09-lifecycle-01-ten-sessions.html",
+    "research/10-master-and-copy.html",
+    "research/blog/an-optimization-algorithm-for-sparse-mean-reverting-portfolio-selection.html",
+    "research/blog/automation-financial-frictions-and-the-long-run-labor-share.html",
+    "research/blog/buying-high-and-selling-low-stock-repurchases-and-persistent-asymmetric-information.html",
+    "research/blog/cardinality-constrained-portfolios-optimization-approach-algorithm.html",
+    "research/blog/contracting-in-the-presence-of-judicial-agency.html",
+    "research/blog/dynamic-estimation-of-stochastic-gold-exposure.html",
+    "research/blog/dynamic-futures-portfolio-in-a-regime-switching-market.html",
+    "research/blog/dynamic-futures-portfolio-under-a-multifactor-gaussian-framework.html",
+    "research/blog/employee-stock-options-exercise-timing-hedging-and-valuation.html",
+    "research/blog/empowering-the-future-ai-copilots-and-autonomous-intelligent-agents-leading-the-way.html",
+    "research/blog/encoding-market-view-via-a-randomized-brownian-bridge.html",
+    "research/blog/esg-a-panacea-for-market-power.html",
+    "research/blog/examining-the-drawdown-risk-of-sector-etfs-2022.html",
+    "research/blog/in-search-gen-ai-business-model.html",
+    "research/blog/index.html",
+    "research/blog/leveraged-etfs-price-dynamics-and-options-valuation.html",
+    "research/blog/mispriced-municipal-bonds-cost-mutual-fund-shareholders-and-taxpayers-billions-of-dollars.html",
+    "research/blog/modern-trends-in-financial-engineering.html",
+    "research/blog/multiscale-analysis-volatility-asymmetry-of-cryptocurrency-prices.html",
+    "research/blog/multiscale-decomposition-and-analysis-of-sector-etf-price-dynamics.html",
+    "research/blog/multiscale-financial-signal-processing.html",
+    "research/blog/municipal-bonds-and-esg-all-hat-no-cattle.html",
+    "research/blog/optimal-execution-for-high-frequency-trading.html",
+    "research/blog/ordering-information-content-using-the-quantile-function.html",
+    "research/blog/predatory-mortgage-lending.html",
+    "research/blog/rel-val-a-new-approach-to-relative-value-analysis-of-securities-and-cryptocurrencies.html",
+    "research/blog/relief-for-the-digital-data-starved-3-9-trillion-municipal-bond-market.html",
+    "research/blog/small-muni-issuers-see-a-potential-620-windfall-for-their-taxpayers.html",
+    "research/blog/stochastic-storage-cost-model-for-grains-futures.html",
+    "research/blog/stocks-versus-gold-which-is-a-better-investment-the-answer-may-surprise-you.html",
+    "research/blog/tearsheet-how-to-use-tearsheet-in-the-face-of-volatile-crypto-and-bond-markets-as-a-means-of-capital-preservation-and-asset-appreciation.html",
+    "research/blog/the-drawdown-risk-and-portfolio-concentration-of-sector-etfs.html",
+    "research/blog/the-labor-market-for-bankers-and-regulators.html",
+    "research/blog/the-real-effects-of-financial-markets.html",
+    "research/blog/why-banks-exist-unveiling-the-vital-role-of-credit-in-the-financial-system.html",
+    "research.html",
+    "trust.html"
+  ],
+  "file_count": 137,
+  "total_bytes": 6499521,
+  "links_restored": {},
+  "redirects": {},
+  "server_404": [],
+  "unresolved_references": [],
+  "external_hosts": [
+    "a16z.com",
+    "aiindex.stanford.edu",
+    "articles.royalmintbullion.com",
+    "corpgov.law.harvard.edu",
+    "emma.msrb.org",
+    "faculty.washington.edu",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "link.springer.com",
+    "medium.com",
+    "papers.ssrn.com",
+    "scholar.google.com",
+    "sentiment.openexa.com",
+    "sites.ualberta.ca",
+    "ssrn.com",
+    "timleungresearch.medium.com",
+    "towardsdatascience.com",
+    "twitter.com",
+    "weather.com",
+    "www.amazon.com",
+    "www.bizjournals.com",
+    "www.congress.gov",
+    "www.econ.yale.edu",
+    "www.forbes.com",
+    "www.hcfcd.org",
+    "www.linkedin.com",
+    "www.mdpi.com",
+    "www.msrb.org",
+    "www.openexa.com",
+    "www.statista.com",
+    "www.warner.senate.gov",
+    "www.weather.gov",
+    "www.worldscientific.com"
+  ],
+  "files": {
+    "404.html": {
+      "bytes": 5137,
+      "sha256": "70410a0a88018870ab4ab281d02bf1d2fa8f34c59dc21575d5e42687dc09a5ba"
+    },
+    "_redirects": {
+      "bytes": 7347,
+      "sha256": "b0b68ae94636d7aab447cf018c1bba3ab3b63514572c1bab4ea540bcbd296758"
+    },
+    "access.html": {
+      "bytes": 13729,
+      "sha256": "37390889d571b51d948087017dc7c18a2fa7739ef47604b502254884000af83e"
+    },
+    "assets/css/site.css": {
+      "bytes": 100784,
+      "sha256": "453a8b544246b3f997aaf9b453b212eca443feff6d841f89a3996fda9cfec137"
+    },
+    "assets/img/apple-touch-icon.png": {
+      "bytes": 17572,
+      "sha256": "ff2b4a4d5d3666e09d4539c0db63fe88bd01cef90f5eabbbca1afc8bf14ea1fd"
+    },
+    "assets/img/blog/blog-001-64b76c5c42421ae3cb9b641e-openexa-icon-og-8ec09086.webp": {
+      "bytes": 39316,
+      "sha256": "ff9d2416d7d3d2514aeaa8bb42054f5de456781290817c6d147d05ba2108ae22"
+    },
+    "assets/img/blog/blog-002-664fd6278d8a0f47c3f93bbe-screenshot-2024-05-23-at-4-8c21afba.webp": {
+      "bytes": 67992,
+      "sha256": "bc340a7cae17acbbf56a86bebfa32594ba8387fff3a05113c18314ce227bc332"
+    },
+    "assets/img/blog/blog-003-667079c2c0f4a03b3ad71481-screenshot-2024-06-17-at-10-d1ad47dd.webp": {
+      "bytes": 26938,
+      "sha256": "01efa8e93b5a135397ef4577090320501f729e3499afb41e371a1d114630303c"
+    },
+    "assets/img/blog/blog-007-6497366325e1c87906acfe33-5ab63daa.webp": {
+      "bytes": 219922,
+      "sha256": "17bdefb6897500f49a978feea39d564a03c6583bfcc223d174cf306639277fb9"
+    },
+    "assets/img/blog/blog-008-6498863a3a344d8f4a720ab0-2-05ae50f6.webp": {
+      "bytes": 182212,
+      "sha256": "a94a1c5c46a8507bf5b7dec7027447da5cf79c0f3bb38963319380ad8505d4b9"
+    },
+    "assets/img/blog/blog-009-649886f90fdcb656ea5c5eed-3-bbaa6f2b.webp": {
+      "bytes": 211670,
+      "sha256": "2bf306f7817694c09b9334b5393e4711ce398d7dd594078c5e099aff6748adbf"
+    },
+    "assets/img/blog/blog-010-6498872bab9a6cff129609cd-4-e8174d9d.webp": {
+      "bytes": 76114,
+      "sha256": "fa5a46e73664d0a5969075b22839c129d1ccf470c1cb52c1616a8886e8d18eec"
+    },
+    "assets/img/blog/blog-011-64988751a675d07f98ffa0f3-5-4c920221.webp": {
+      "bytes": 86416,
+      "sha256": "b5dbb2d581cde11aa338ef8908319f4e1dcb68c94c60ee864d333d5ee93cfa5e"
+    },
+    "assets/img/blog/blog-012-6498877c3a344d8f4a7346ba-6-a2c878b2.webp": {
+      "bytes": 113694,
+      "sha256": "8eb65fdfe41eaf4d0a3fe1dfdc58abe18ece6d1fa8d8b806b3fb34f57db78319"
+    },
+    "assets/img/blog/blog-013-64988870c7b645dcdcdebe61-9-49af3892.webp": {
+      "bytes": 104304,
+      "sha256": "f3cc23aca5697f6fe4de78f36e380955a4cf21c5cea76854e9dfa0342145aff4"
+    },
+    "assets/img/blog/blog-014-649888fd3a344d8f4a74f709-ezgif-com-webp-to-jpg-ad14f89f.webp": {
+      "bytes": 35354,
+      "sha256": "e0d077762d2cc019d3248a0b1ea57872c9506dc1f188ad0f668e67dbc85b5334"
+    },
+    "assets/img/blog/blog-015-64988927498a024f488da94a-10-37cd1c0c.webp": {
+      "bytes": 56818,
+      "sha256": "565906a2ee135759c05c45214d1ca13b686be71e72416b9f8997e1f56d0d515d"
+    },
+    "assets/img/blog/blog-016-6498896d70b2f686af9c7c7b-11-a734ad40.webp": {
+      "bytes": 48552,
+      "sha256": "84cff1fc47b096d7706466f7d403ac7f2d238fe4b5d3395bed2345d2d2fc3339"
+    },
+    "assets/img/blog/blog-017-649889be498a024f488e4908-ezgif-com-webp-to-jpg-1-1363020a.webp": {
+      "bytes": 266356,
+      "sha256": "6045f91a0a17aeb2aff31b091d8bf3fa7841e5025b790d58859e6afa1f472691"
+    },
+    "assets/img/blog/blog-018-649889f411e142a6840350cd-13-e80e75c9.webp": {
+      "bytes": 15510,
+      "sha256": "f750e9493e5aa00292eeb2d9dc5085c7404d3eeaa40e2085912333469a8191ca"
+    },
+    "assets/img/blog/blog-019-64988a5b11e142a684039f44-15-c0a8ffff.webp": {
+      "bytes": 144116,
+      "sha256": "ba993c685aeeb8ddd872eaf14a24ce0e033c68549de4d8d3ba998ca40029d442"
+    },
+    "assets/img/blog/blog-020-64988ac4bd2694e655c44408-16-500ce2e1.webp": {
+      "bytes": 134744,
+      "sha256": "b682d5bebe0e04e77d80fdcde496f553ce791ae012d1685dd2874f61ccb61d53"
+    },
+    "assets/img/blog/blog-021-64988aef1a0e65aadfb19a95-17-5635e691.webp": {
+      "bytes": 136452,
+      "sha256": "cc9ee26ef890bc0a3a7eb7ebf644705ddbddaaf0818a9ff9e51567fa986c9cda"
+    },
+    "assets/img/blog/blog-022-64988b91a6201fd47b0a73fd-ezgif-com-webp-to-jpg-2-8a536bbd.webp": {
+      "bytes": 223932,
+      "sha256": "f283ccfe3b95c0531aa8b1f5a36fa229b24b1980911e58a215a835f39e918504"
+    },
+    "assets/img/blog/blog-023-64989ba64ac9926b690dd7c9-ezgif-com-webp-to-jpg-3-1fbca68d.webp": {
+      "bytes": 112756,
+      "sha256": "b871700f06df4039896b3897d649929919ccd8938d21cc96c2c8608d244f01bb"
+    },
+    "assets/img/blog/blog-024-64989bf311e142a6843070d0-ezgif-com-webp-to-jpg-4-70061c47.webp": {
+      "bytes": 83202,
+      "sha256": "b3b97866bf93af623981823118c9c7dab8ac70724516f3aecae654e407377ca9"
+    },
+    "assets/img/blog/blog-025-64989c3bbd2694e655ec7363-ezgif-com-webp-to-jpg-5-2517f614.webp": {
+      "bytes": 51796,
+      "sha256": "fd0351e7bfff0475b140f8b72e5bce6ce62a2c36256a514807fd968e9552cd16"
+    },
+    "assets/img/blog/blog-026-64989d00bd2694e655eff150-ezgif-com-webp-to-jpg-6-f4ab7b33.webp": {
+      "bytes": 72018,
+      "sha256": "b9bede6aa6ac7f21a2b26158332061ddcfa6041ddcf597153e2c06f3c396c41e"
+    },
+    "assets/img/blog/blog-028-649e320f57bee709f474e657-research-0fc3c7b1.webp": {
+      "bytes": 28742,
+      "sha256": "b5a0712ef19facfb29100359e6bc7c0c42aef5987782eedced0e72767d5de035"
+    },
+    "assets/img/blog/blog-046-64bf23518a6693a21f250ddc-screenshot-2023-07-24-at-6-ccd8ebdc.webp": {
+      "bytes": 49684,
+      "sha256": "a7daa20ab4435b929769cb0839686b6668f450a929c7d75b252539051a0f7ecf"
+    },
+    "assets/img/blog/blog-047-64c3002089c8fd4d0e53b274-641b7e5d04af98593c4a7975-im-c8ce3206.svg": {
+      "bytes": 6567,
+      "sha256": "950a8107bbe32d9437c4ead6e74d63ead1ed4d95d25729e024b7b20808af0e49"
+    },
+    "assets/img/blog/blog-070-64c80031265356ee3bbeb778-banks-01-be0dd290.webp": {
+      "bytes": 4768,
+      "sha256": "b0703c58e0883d5d575bbe8ff051d0b5d0859fef1c7423430aa9249d57a2b444"
+    },
+    "assets/img/blog/blog-071-64d2863858e9ef7525bebc84-1-dgwkaq5dsqgi-oa6hootxq-c86d34e3.webp": {
+      "bytes": 16924,
+      "sha256": "e8c519fa90b8f4ad8b4caffda24ce168fd057bbe2ea64b9466d7b703bf2fd7ff"
+    },
+    "assets/img/blog/blog-072-64d286611995f2e23c3dc8d2-1-omvqwiezacaygwgxfvryoa-83bb1943.webp": {
+      "bytes": 27008,
+      "sha256": "90f937c72d03468c69bf6b6f168b92869cb5cafab2ecf4f1c02e5f045a12e612"
+    },
+    "assets/img/blog/blog-073-64d286795c24d3bb41d12c62-1-hidtomnwe-jys-uhscco7q-0e608f69.webp": {
+      "bytes": 23020,
+      "sha256": "20a95d1e2747286971f2a6cee4573fe691f81013641b01f362ccb31d5e766a43"
+    },
+    "assets/img/blog/blog-074-64d287b8229de57020347a9f-1-wxhi9kd2suhgdzplgvaovg-f5fedfd8.webp": {
+      "bytes": 17980,
+      "sha256": "aec29ac9bd32e2c184baa22d68e3eaaefb527b105a3d4c27a2bd7efe69806323"
+    },
+    "assets/img/blog/blog-075-64d287db1b4c2ee61f031464-1-dkj5qyckwr8qskwxkmlswa-7a1e47ad.webp": {
+      "bytes": 17080,
+      "sha256": "8dbea0e754ec0e26f12be9fb6def33cea986edd0d12c00275bbe81a44677a1d2"
+    },
+    "assets/img/blog/blog-076-64d287db3b99403e9c49ae2d-1-c6zpuzqe7qaagczzdotn8a-171ec41b.webp": {
+      "bytes": 29296,
+      "sha256": "e3e0d39f99bde53cd0abcbe77bad8cc61eded3a226d9ad80688d07bb83cca014"
+    },
+    "assets/img/blog/blog-077-64d287dba99856e0dd3cf47c-1-yj2fzq9jfunlb-b5kdrd4q-0a9d5527.webp": {
+      "bytes": 32666,
+      "sha256": "2e37e3f2e4aff045231578ce28fc0e9d11e80a73d4eb701fcd89b5d15949a83c"
+    },
+    "assets/img/blog/blog-080-664bd0cae82c9f1984c6e08a-screenshot-2024-05-20-at-3-3be8cf32.webp": {
+      "bytes": 104722,
+      "sha256": "64f2dbaf745b8b6014310598c33dd81ded03b8aa811a10c6a010fe349fb4fc90"
+    },
+    "assets/img/blog/blog-081-664bde0fbf547125bbdb01ea-screenshot-2024-05-20-at-4-5a188b22.webp": {
+      "bytes": 35226,
+      "sha256": "0a8270168b60f74bd6abb42a503b08a3c94992b1c9388dc07af216a5f65a75e2"
+    },
+    "assets/img/blog/blog-082-664bded357e9ad6f6d6200de-screenshot-2024-05-20-at-4-f4c66547.webp": {
+      "bytes": 30724,
+      "sha256": "ab9195b4831ab3b99302ec540305c170609ae8fb7ddfa23d4c4f0e95cf271b86"
+    },
+    "assets/img/blog/blog-083-664be068906b6f7c16a3841a-screenshot-2024-05-20-at-4-362aa0e2.webp": {
+      "bytes": 30794,
+      "sha256": "1e08b112f10b2aaa42bb3b8040dc2949c59982c48b624d67e0444a23de1e96bf"
+    },
+    "assets/img/blog/blog-084-664be2c6a8005b6c2cc1301a-screenshot-2024-05-20-at-4-b0097121.webp": {
+      "bytes": 38296,
+      "sha256": "ce1cea0a400eba9963b353f02fe542467006be5e2554b99ebf29f8ae803ccc7a"
+    },
+    "assets/img/blog/blog-085-664be3698ab057fd51fc2d28-screenshot-2024-05-20-at-4-de5dd7be.webp": {
+      "bytes": 111190,
+      "sha256": "76c467439365db4baece8013bbb593d0d4f1a84e01cc8c0eee93ae75bc9ee16a"
+    },
+    "assets/img/blog/blog-086-664be6696c3c4f02c632c8bf-screenshot-2024-05-20-at-5-75980c73.webp": {
+      "bytes": 41444,
+      "sha256": "d4ce0e3aabd7637de7436b4ed0274c7295d94cfea8465c45622bd557d4abfe64"
+    },
+    "assets/img/blog/blog-087-664be6e0ce913ca7b8c8cda6-screenshot-2024-05-20-at-5-9eb370d6.webp": {
+      "bytes": 28960,
+      "sha256": "03b4f230680c22b76dd3273f0e315f75167eed03dbea6e69623830e8464b659c"
+    },
+    "assets/img/blog/blog-088-664be7826a6f775b01445fd4-screenshot-2024-05-20-at-5-a3accc77.webp": {
+      "bytes": 77328,
+      "sha256": "ad1ef486434b60fac6915b2b41b50674c6e8472d43de3010454491242d4ccad3"
+    },
+    "assets/img/blog/blog-089-664fe08df6d7c6e89989a74b-screenshot-2024-05-23-at-5-504a2bf7.webp": {
+      "bytes": 111536,
+      "sha256": "03f71c0fc06890e9e0cb20967e0870658a357c7d1311367c3dac0c5c5afefa28"
+    },
+    "assets/img/blog/blog-090-664fe5b74683631313d453d6-screenshot-2024-05-23-at-5-c0bcb881.webp": {
+      "bytes": 53964,
+      "sha256": "b43c3bcf0ce2299920d0987644d5e6a32dfb05a08e37592664c970fde8a7f979"
+    },
+    "assets/img/blog/blog-091-664fe712804484c8f65ea733-screenshot-2024-05-23-at-6-849bff5e.webp": {
+      "bytes": 110608,
+      "sha256": "ce8a861754f6465489b4636b9ab601108f2917f3bc75b3495e2101f0916a2d04"
+    },
+    "assets/img/blog/blog-092-664fe92746895a7fac73cbf8-screenshot-2024-05-23-at-6-e4db4549.webp": {
+      "bytes": 124556,
+      "sha256": "23865f5c1701c1f85598a795c334037c6afccfd12f19e320fce879bbac97b99d"
+    },
+    "assets/img/blog/blog-093-664fea9dcd8a8ba7f405d554-screenshot-2024-05-23-at-6-230ee30f.webp": {
+      "bytes": 114202,
+      "sha256": "71d5df66d2e9a229f0e494d88341b63b6f15e35de2dcb9d61ef33d1cd4dce18e"
+    },
+    "assets/img/blog/blog-094-6650eb93b32772052e84688f-screenshot-2024-05-24-at-12-e573576a.webp": {
+      "bytes": 210710,
+      "sha256": "4c9ca8ce2fe474f8030c70f2c33db6cea0bfc550d4ac78481551f59a66227d16"
+    },
+    "assets/img/blog/blog-095-6666383add349b0f7b1d3ecc-31314-1d35be50.webp": {
+      "bytes": 61118,
+      "sha256": "8800ccfcd5dfe8115dc791ae005fdb8570a8dfd4f04ea7c1fd2d6d75c2330dc4"
+    },
+    "assets/img/blog/blog-096-66674f9be55fd1adc0cbd411-capex-7e457aae.webp": {
+      "bytes": 16896,
+      "sha256": "f5ab1c1603e3fd4ac7424fc3b89820df095deb17f9f1a7a527cfbc6315cdfa0e"
+    },
+    "assets/img/blog/blog-097-6668c9f356051415b2dce1b3-screenshot-2024-06-11-at-3-40122cf4.webp": {
+      "bytes": 118676,
+      "sha256": "2123107f2b5eae04b315face1ee97a4bcdd77b87eef221989c554f380c7aeeb8"
+    },
+    "assets/img/blog/blog-098-6668ce7aed9a24bada291d7b-screenshot-2024-06-11-at-3-43ff5cc1.webp": {
+      "bytes": 32470,
+      "sha256": "9c5437c3e1748aedf0231b0228ad230271a541c2f1c3dfa5fad524ccc4275afb"
+    },
+    "assets/img/blog/blog-rel-val-6642935f1c232aafd0b3d1f0-relvel-31089e95.webp": {
+      "bytes": 244416,
+      "sha256": "8f7afd22919e41c035783719fa36133d4fdec7762d05ad5e016dd412b29300e3"
+    },
+    "assets/img/blog/blog-rel-val-664fc5556689eea6651d760a-screenshot-2024-05-23-at-3-37-46-pm-1b8ac813.webp": {
+      "bytes": 114728,
+      "sha256": "0bee5734652874e06aa572c1d98c880cadb5c0d9a91bc44968894fe855b80ede"
+    },
+    "assets/img/blog/blog-rel-val-664fc5556689eea6651d760a-screenshot-2024-05-23-at-3-37-46-pm-ceabcc0a.webp": {
+      "bytes": 114728,
+      "sha256": "0bee5734652874e06aa572c1d98c880cadb5c0d9a91bc44968894fe855b80ede"
+    },
+    "assets/img/blog/blog-rel-val-680fc49a6247b672488f2172-chatgpt-image-apr-28-2025-11-09-49-am-771a47fb.webp": {
+      "bytes": 134734,
+      "sha256": "b3b0d5780e044d39500487d0aacb7a7328a8cdc078cd68419a993b8e10d8b9b1"
+    },
+    "assets/img/favicon.svg": {
+      "bytes": 4389,
+      "sha256": "2a9c3b072ce17fb60c7ae5aaacff33f7afec312e9f5f925ac82b2dd591f0b093"
+    },
+    "assets/img/globe.svg": {
+      "bytes": 4394,
+      "sha256": "854c44495ed2f67f4b13661b78e73c486b521d11798b695c808c006186eb2a86"
+    },
+    "assets/img/icon-192.png": {
+      "bytes": 19225,
+      "sha256": "04810a7589073e1619154b1e20e91c5c70e0823f14001d33086cb2f736863152"
+    },
+    "assets/img/icon-512.png": {
+      "bytes": 28430,
+      "sha256": "6c7acfedfc4b5b10bf1cb9afa384be7f72fcb82a67df11123f889c8e9c161df6"
+    },
+    "assets/img/og.png": {
+      "bytes": 254988,
+      "sha256": "765a0485237049cf788c5c354244872315140bc61ab2e891059cbda5b270ab42"
+    },
+    "assets/img/team/ajit-dubey.webp": {
+      "bytes": 50290,
+      "sha256": "d73b8d568c5aa98f7ee672792df415fe384ee71728982139495a8bbb5585dbda"
+    },
+    "assets/img/team/barnet-sherman.webp": {
+      "bytes": 51282,
+      "sha256": "4c88667464c8159115085921aee5163e21ba05f3d1ff8050ec1546728dab667b"
+    },
+    "assets/img/team/mike-lockhart.webp": {
+      "bytes": 39804,
+      "sha256": "bbc7b8f7065e755c27050ccd128544885ec1ccb21eca5ddae76cdf2709e47ba7"
+    },
+    "assets/img/team/shalabh-choudhri.webp": {
+      "bytes": 48914,
+      "sha256": "5c74b630d886b5de66175ddc5e43815fe92707ce2a6a8176d1fab92d73523594"
+    },
+    "assets/img/team/tim-leung.webp": {
+      "bytes": 38604,
+      "sha256": "7c06bc2187f025036983e3c6a5e5d1a3f0c89b92be3aed356775c64d3317e35b"
+    },
+    "assets/img/team/victor-gamolsky.webp": {
+      "bytes": 46862,
+      "sha256": "717e63b714e4a810dd9f0b766cd01983146d248c3092f0a8e89adc4677c3ccea"
+    },
+    "assets/js/blog.js": {
+      "bytes": 2207,
+      "sha256": "d6bec1f3ef21115c8cd94cb70e8476e68ca9ceca6df18a610f2099697fcbad41"
+    },
+    "assets/js/chain.js": {
+      "bytes": 5189,
+      "sha256": "44c4f9bcb3f985d237cb330ebda1fec98e8757c821e26b6fd0ed7a252f81b33c"
+    },
+    "assets/js/figure.js": {
+      "bytes": 24579,
+      "sha256": "dbb41ec00135b99b1a333cc83f826018817dbd20aefcc9945d275abb51d50e9a"
+    },
+    "assets/js/gap.js": {
+      "bytes": 14072,
+      "sha256": "421fa61f7dc21a8271b54b52c4f52df6476f74c75bb550c438d4e9426738d6d0"
+    },
+    "assets/js/site.js": {
+      "bytes": 28675,
+      "sha256": "9695be68a8e82cf256beae3b08c1cf239f22b3941d5713daa39fc1bf681c7df0"
+    },
+    "assets/js/story.js": {
+      "bytes": 31015,
+      "sha256": "93a49fb532e0f8440955fe81f268ad81b44dab3db212d8933d54391757c269ba"
+    },
+    "assets/js/swarm.js": {
+      "bytes": 10059,
+      "sha256": "263270dfd6e4adb19fee6acf55975927dce398fa9105f4b7333553817bd6ab9f"
+    },
+    "company.html": {
+      "bytes": 23468,
+      "sha256": "197e09686d3b894cd92bf5e56fbdfe3c7379601d22225ae701f66ad1a1d51806"
+    },
+    "evidence.html": {
+      "bytes": 17503,
+      "sha256": "36dbd5e57f552566441b4f9aad7eef867df37f92bb245c16dac8f7da73cc7c66"
+    },
+    "index.html": {
+      "bytes": 39768,
+      "sha256": "e8b16d11db456c3ef70b5275aabb13fa84d8efbb43a007ebcf371b5dde3b3290"
+    },
+    "insights.html": {
+      "bytes": 388,
+      "sha256": "ad52a3725f43c8f5a32267ca789f2f611c726fa205fc4246eb3e4fb88001632d"
+    },
+    "lifecycles.html": {
+      "bytes": 20676,
+      "sha256": "f456c7f9c8f99410cfb28363d80474ae490b74ad8364957f700b8a4fad2d2b87"
+    },
+    "platform.html": {
+      "bytes": 26284,
+      "sha256": "f15280793a8dd781f03aaaaf676c40d1dc13632104cb93ec4e8c4487275d9f59"
+    },
+    "README.md": {
+      "bytes": 14804,
+      "sha256": "fcc4a1167f8cdeaa46cd71f38292667189bd51e2aabad238368fadd2bd232972"
+    },
+    "research/01-compounding-error.html": {
+      "bytes": 18563,
+      "sha256": "64aa529ae5e81889885ebbba59d17fa00ac1eb6496d1401c24815f079bb68fd1"
+    },
+    "research/02-post-training-and-audit.html": {
+      "bytes": 20070,
+      "sha256": "3519cf59e65b71a5bf1cde7007bd7037a12f800e3cdb423aad4a9828d4db79e8"
+    },
+    "research/03-not-tasks-lifecycles.html": {
+      "bytes": 12003,
+      "sha256": "080174bdb860eeb19d65cfcb96d6d270380d8b1e8966f71a130f73ef1535ea59"
+    },
+    "research/04-five-thousand-small-agents.html": {
+      "bytes": 12088,
+      "sha256": "03f0ebb004373b542b2963475f5304fa8a88cf247b3e309a9b1ab50e5cd8d350"
+    },
+    "research/05-agents-decide-code-executes.html": {
+      "bytes": 12262,
+      "sha256": "252d42470c64e21c76d769dc506578b5f6e021ab5f636d65e4953945e3b639e0"
+    },
+    "research/06-post-training-on-a-rulebook.html": {
+      "bytes": 12290,
+      "sha256": "49e3c02cf1d26532d7a365f2b748d49053c8b9239888ae4951a1beab659864bc"
+    },
+    "research/07-the-execution-council.html": {
+      "bytes": 11800,
+      "sha256": "6b90cc282f9f9df567bd822385e3eaf69d4c679a314d9ff4915ccd75c3785894"
+    },
+    "research/08-a-ledger-nobody-can-edit.html": {
+      "bytes": 12234,
+      "sha256": "649936fdda6e504bfe99ca7e0f05881a7f1b6b9e607a80afb21d95be53707d26"
+    },
+    "research/09-lifecycle-01-ten-sessions.html": {
+      "bytes": 12847,
+      "sha256": "a68e574e719d18b3e72c949c0d3f4c14d45128aa3964d4028c1ac40ffe5bc830"
+    },
+    "research/10-master-and-copy.html": {
+      "bytes": 12375,
+      "sha256": "be7f0b846900aee92155d5f1f4104c5865bee94659e12bbb7f940c93c8040526"
+    },
+    "research/blog/an-optimization-algorithm-for-sparse-mean-reverting-portfolio-selection.html": {
+      "bytes": 11594,
+      "sha256": "0d0d1421a9ae4886923e21fed0067b9a68003aaac41c30f684f3283f9de4279f"
+    },
+    "research/blog/automation-financial-frictions-and-the-long-run-labor-share.html": {
+      "bytes": 11431,
+      "sha256": "3833f15d879dd2a19d8602594a0814e8f5fc793c5894c81f6b14df13dabae805"
+    },
+    "research/blog/buying-high-and-selling-low-stock-repurchases-and-persistent-asymmetric-information.html": {
+      "bytes": 14173,
+      "sha256": "1833d259ef3019ac2f1b48592f6e0465e9f346473a2e38f555da3ebd01115c70"
+    },
+    "research/blog/cardinality-constrained-portfolios-optimization-approach-algorithm.html": {
+      "bytes": 12395,
+      "sha256": "68c5fc8128b65f53ef7e82c10c655721d03b011248d2770abd99d590cd20a756"
+    },
+    "research/blog/contracting-in-the-presence-of-judicial-agency.html": {
+      "bytes": 11452,
+      "sha256": "05e5068074dc001592e9053a99823ecb68aa1d4f67f26c0beb49c9a11dc768b7"
+    },
+    "research/blog/dynamic-estimation-of-stochastic-gold-exposure.html": {
+      "bytes": 11596,
+      "sha256": "13ca715fac0d5a43c29976ced68d5d452f8c5badaef5bdf03fc0fc779fcfaae8"
+    },
+    "research/blog/dynamic-futures-portfolio-in-a-regime-switching-market.html": {
+      "bytes": 12047,
+      "sha256": "ccca18b788b165484dd4d5a1ae89c05d3192a8c122cda0b13693cefadf4fb697"
+    },
+    "research/blog/dynamic-futures-portfolio-under-a-multifactor-gaussian-framework.html": {
+      "bytes": 12401,
+      "sha256": "5525440f655a0128311c412044870ae91bd42d56da55b61828432f2e5559292b"
+    },
+    "research/blog/employee-stock-options-exercise-timing-hedging-and-valuation.html": {
+      "bytes": 11932,
+      "sha256": "b6fa7440b4372a7900992f23bb6d56c224564215b9c25f7bc3202cc14dd8dbd4"
+    },
+    "research/blog/empowering-the-future-ai-copilots-and-autonomous-intelligent-agents-leading-the-way.html": {
+      "bytes": 24331,
+      "sha256": "e68c5be5b70c664b6fcaa0dd2d82d621be68889959bb9f197deaa5a353a7edc6"
+    },
+    "research/blog/encoding-market-view-via-a-randomized-brownian-bridge.html": {
+      "bytes": 12017,
+      "sha256": "b3952f3ab9e3aa35826849662755886481261bb93e632189ff488829b2525707"
+    },
+    "research/blog/esg-a-panacea-for-market-power.html": {
+      "bytes": 12062,
+      "sha256": "5ef75a8d43718163a1ad806580ae17c6231e5a77de625c94621e2c50eb37bf79"
+    },
+    "research/blog/examining-the-drawdown-risk-of-sector-etfs-2022.html": {
+      "bytes": 10847,
+      "sha256": "375612c0f70adc7e84a0bbc470aa1ecf31eb3660d0b5c50af72c026a17f3f13c"
+    },
+    "research/blog/in-search-gen-ai-business-model.html": {
+      "bytes": 20856,
+      "sha256": "6cf3c2af4e6549e8245aab76e1f68e7841731fb542ef85b2b68234b69c44c53f"
+    },
+    "research/blog/index.html": {
+      "bytes": 39968,
+      "sha256": "d3038f267d342152e641e5e7bcc795b622aa303c28abc15c843f21fe4bed5560"
+    },
+    "research/blog/leveraged-etfs-price-dynamics-and-options-valuation.html": {
+      "bytes": 12249,
+      "sha256": "2bbb6a2dc078606fbce65ceb58968f77b95e127d9ba0c77d1db325066f1c611d"
+    },
+    "research/blog/mispriced-municipal-bonds-cost-mutual-fund-shareholders-and-taxpayers-billions-of-dollars.html": {
+      "bytes": 12070,
+      "sha256": "552478b86dfaf0fc379ec26a2b8d913ee0b0f4dbf983d4a0bbabebe5cfeb128b"
+    },
+    "research/blog/modern-trends-in-financial-engineering.html": {
+      "bytes": 11936,
+      "sha256": "861aa97e7453e289f2600079acfda1d8f3f0118d6403b48ab7c02f13e3f68cc8"
+    },
+    "research/blog/multiscale-analysis-volatility-asymmetry-of-cryptocurrency-prices.html": {
+      "bytes": 11904,
+      "sha256": "e2cbc88d487596550dde2f6c2159ff0284fa43a01084068ac5e559c8b1067183"
+    },
+    "research/blog/multiscale-decomposition-and-analysis-of-sector-etf-price-dynamics.html": {
+      "bytes": 11422,
+      "sha256": "03c6740b24c04c0ade952a108de3315499a934136c71b50f132fc24d98182983"
+    },
+    "research/blog/multiscale-financial-signal-processing.html": {
+      "bytes": 12044,
+      "sha256": "cc9e88474d704654ef4e8ad3e1409e0e3953e71e07b31de34c8405d5d70b0407"
+    },
+    "research/blog/municipal-bonds-and-esg-all-hat-no-cattle.html": {
+      "bytes": 12856,
+      "sha256": "9192ea35adfef1149733102e834224f98f748be4d643a0d530928c530e64babf"
+    },
+    "research/blog/optimal-execution-for-high-frequency-trading.html": {
+      "bytes": 11587,
+      "sha256": "ad88dce55b74915703ee2b86047238fac83aa5c4c3830df8b16bfdc96c9afd74"
+    },
+    "research/blog/ordering-information-content-using-the-quantile-function.html": {
+      "bytes": 11350,
+      "sha256": "cf335c54f296dbce55df0c3e1f4b4fb61ed2e6e316aa371e6a8f9bce295c9186"
+    },
+    "research/blog/predatory-mortgage-lending.html": {
+      "bytes": 11115,
+      "sha256": "15fca0eff73fa2bed3a46bbf2e998c03c774603b5e0d559e4e4181e19b47e2a0"
+    },
+    "research/blog/rel-val-a-new-approach-to-relative-value-analysis-of-securities-and-cryptocurrencies.html": {
+      "bytes": 28373,
+      "sha256": "7cf0c9b9965ae3eb8ff749e07b3bdbbf71144a039dd138a8c56c93b9164da0d4"
+    },
+    "research/blog/relief-for-the-digital-data-starved-3-9-trillion-municipal-bond-market.html": {
+      "bytes": 12490,
+      "sha256": "acdde3d5d8328b37558b0177fdd839266a69b94a44b7e43a661fab3e10e2bad1"
+    },
+    "research/blog/small-muni-issuers-see-a-potential-620-windfall-for-their-taxpayers.html": {
+      "bytes": 11801,
+      "sha256": "b321a3569bcaaabfc2d6e9e7d2d4ed32e6489bedb22c020849ca9230c72f9daa"
+    },
+    "research/blog/stochastic-storage-cost-model-for-grains-futures.html": {
+      "bytes": 11363,
+      "sha256": "afd87b06c839ae15544a8a8163f12bfa37931d7f12327cd6ca33a7f5349d8357"
+    },
+    "research/blog/stocks-versus-gold-which-is-a-better-investment-the-answer-may-surprise-you.html": {
+      "bytes": 12104,
+      "sha256": "edefd671dd37a73aa3446acb7fd63de9e105affeac7dd47c9a3bcf7a8847f511"
+    },
+    "research/blog/tearsheet-how-to-use-tearsheet-in-the-face-of-volatile-crypto-and-bond-markets-as-a-means-of-capital-preservation-and-asset-appreciation.html": {
+      "bytes": 20708,
+      "sha256": "b12e15792d47b1953615df365ee507d65459b73f38b0ea0be753fdeb6fd6d490"
+    },
+    "research/blog/the-drawdown-risk-and-portfolio-concentration-of-sector-etfs.html": {
+      "bytes": 11604,
+      "sha256": "0286e340626f7ca3b4a1a2aa860f5d0cab91ef1acacea91b0a494501e951c799"
+    },
+    "research/blog/the-labor-market-for-bankers-and-regulators.html": {
+      "bytes": 13441,
+      "sha256": "020618857067ab23066ec3eabc8628d287a4dd8c4b3cf54c95decb2a3276249c"
+    },
+    "research/blog/the-real-effects-of-financial-markets.html": {
+      "bytes": 11621,
+      "sha256": "1008cbfe5d9d4c3e0b3a548b6edc2861a80431585842280ddc1f74fb239a6b92"
+    },
+    "research/blog/why-banks-exist-unveiling-the-vital-role-of-credit-in-the-financial-system.html": {
+      "bytes": 16306,
+      "sha256": "327341a335fe418daf6d95fe9777d796a785b7660c357238e81ea3bf4dffa512"
+    },
+    "research.html": {
+      "bytes": 21600,
+      "sha256": "0c0d91e87c7699780de494ad4cb08a0191ab156014dab8f9bb878a8088da869a"
+    },
+    "robots.txt": {
+      "bytes": 69,
+      "sha256": "79650137339e3b53a9f01e46cd5ee5a91367412f35d5a14497ced0dfc4ab3471"
+    },
+    "site.webmanifest": {
+      "bytes": 401,
+      "sha256": "5df5db5ff1755f447198687f110e7b24862083f0c17395f602934af5a62dce4b"
+    },
+    "sitemap.xml": {
+      "bytes": 10354,
+      "sha256": "71ad947461f4d6859b43e96487b2e81a12552313600463db640a6cc0ef3a5570"
+    },
+    "trust.html": {
+      "bytes": 16736,
+      "sha256": "9894e8c02c02b8ddf434823f686dd6e2b4880ab10681189c2d996ccfa9356a6a"
+    }
+  },
+  "provenance": "Built locally on 2026-09-28 from v14: adds research/blog/ - the old openexa.com blog imported (36 of 51 posts in four collections: AI & agents, Financial markets research, Market structure & economics, Municipal markets & commentary; 34 post pages at their old slugs plus two outbound link cards). The 15 crypto/token-product posts of 2023-24 are held back (EXCLUDE in build_blog.py) and redirect to the blog index. Adds \"More on financial markets research\" (Google Scholar, Dr. Tim Leung) to his team card, the Research page (new section 03 The blog) and the blog's markets collection; a Blog link in every footer; and _redirects mapping every URL of the old openexa.com site (/blog/<slug>, /strategies, /trust-risk, /status, /for-managers, /for-investors, /beta) to its new home. Verified with verify_v9.py (14 pages incl. blog), verify_editorial.py, linkcheck_tree.py (2191 refs, 0 bad) and verify_redirects.py (59/59). Deployed 2026-09-28 through the Netlify CLI as a draft on timely-quokka-fa2399 (deploy 6abad6a36c7d1b738054c701, https://6abad6a36c7d1b738054c701--timely-quokka-fa2399.netlify.app); production still serves v14 until the draft is published. The draft was verified against this folder (80 assets byte-identical, 55 pages identical apart from link rewriting), all 59 old-site redirects were checked on it, and it was smoke-tested in a browser with zero errors."
+}
