@@ -11,6 +11,8 @@ open its `index.html` directly or serve the folder with any static server.
 - **timely-quokka no longer serves v1.** It served v1 from 2026-09-03, v10 briefly on 2026-09-21, v11 on
   2026-09-23, v12 and v14 on 2026-09-24, v15 and v16 on 2026-09-28 and v17 since 2026-09-29. `v1-2026-09-03-timely-quokka-fa2399/` here is now the only copy of the original.
 - v10 (`silly-gelato`), v9 (`willowy-squirrel`) and v8 (`heartfelt-valkyrie`) remain online at their own URLs.
+- **Source:** <https://github.com/barnet-c/openexa-website> - the live site (`site/`), the scripts that build and verify
+  it, and their data. Rebuilding from it reproduces the current version byte for byte.
 - `_previews/` - homepage screenshot of every version (1440 x 900).
 - `_manifests/` - per-version file lists with SHA-256 checksums, restored-link counts and any server 404s.
 - `versions.json` - the same index in machine-readable form.
