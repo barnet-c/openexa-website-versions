@@ -4,14 +4,12 @@ Every version of the OpenEXA site that was deployed to Netlify (Netlify Drop, te
 from the first deploy to the current one. Each `vN-...` folder is a complete, self-contained copy of that version:
 open its `index.html` directly or serve the folder with any static server.
 
-- **Current version: v17** (`v17-2026-09-29-team`) - v16 with the team rebuilt from the old About page (10 + 3 advisors),
-  Barnet Sherman and blog collection 04 removed, no patent count on Ajit's profile, and 5 runs on the Proof page. Deployed
-  as a **draft** on timely-quokka at <https://6abc477283e198e2f4a83ca8--timely-quokka-fa2399.netlify.app/> and verified
-  identical to this folder.
-- **Production: v16** (`v16-2026-09-28-gen-ai-series`) is what <https://timely-quokka-fa2399.netlify.app/> serves until the
-  v17 draft is published. Deploys go through the Netlify CLI: a draft first, then that same deploy is promoted.
+- **Current version: v17** (`v17-2026-09-29-team`) - live at <https://timely-quokka-fa2399.netlify.app/> (the CEO's
+  original URL): v16 with the team rebuilt from the old About page (10 + 3 advisors), Barnet Sherman and blog collection 04
+  removed, no patent count on Ajit's profile, and 5 runs on the Proof page. This folder is the exact published source and
+  was verified identical to the live site. Deploys go through the Netlify CLI: a draft first, then that same deploy is promoted.
 - **timely-quokka no longer serves v1.** It served v1 from 2026-09-03, v10 briefly on 2026-09-21, v11 on
-  2026-09-23, v12 and v14 on 2026-09-24, v15 and v16 on 2026-09-28. `v1-2026-09-03-timely-quokka-fa2399/` here is now the only copy of the original.
+  2026-09-23, v12 and v14 on 2026-09-24, v15 and v16 on 2026-09-28 and v17 since 2026-09-29. `v1-2026-09-03-timely-quokka-fa2399/` here is now the only copy of the original.
 - v10 (`silly-gelato`), v9 (`willowy-squirrel`) and v8 (`heartfelt-valkyrie`) remain online at their own URLs.
 - `_previews/` - homepage screenshot of every version (1440 x 900).
 - `_manifests/` - per-version file lists with SHA-256 checksums, restored-link counts and any server 404s.
@@ -35,7 +33,7 @@ open its `index.html` directly or serve the folder with any static server.
 | **v14** | 2026-09-24 | [timely-quokka-fa2399](https://timely-quokka-fa2399.netlify.app) | Infrastructure for agentic lifecycles. | 20 | 44 | **Company edits.** v13 plus two Company-page edits: the hero's put to work. is white instead of green (hero only), and the team section's third stat is 100+ research papers instead of 90% of Microsoft's revenue. Includes the v13 page edits. Deployed 2026-09-24 via the Netlify CLI as a draft on timely-quokka, verified, then published by promoting that same deploy; production verified identical to this folder and smoke-tested. |
 | **v15** | 2026-09-28 | [timely-quokka-fa2399](https://timely-quokka-fa2399.netlify.app) | Infrastructure for agentic lifecycles. | 55 | 137 | **The blog.** v14 plus research/blog/: the old openexa.com blog imported - 36 of 51 posts in four collections (AI & agents, financial markets research, market structure & economics, municipal markets), old slugs kept; the 15 crypto/token-product posts held back. Adds the Google Scholar link (More on financial markets research) to Dr. Tim Leung's card, the Research page and the blog; a Blog link in every footer; and redirects for every URL of the old openexa.com site so the domain can move. Deployed 2026-09-28 as a draft on timely-quokka, verified, then published by promoting that same deploy; production verified identical to this folder, redirects re-checked, smoke-tested. |
 | **v16** | 2026-09-28 | [timely-quokka-fa2399](https://timely-quokka-fa2399.netlify.app) | Infrastructure for agentic lifecycles. | 55 | 137 | **Featured Gen-AI series.** v15 with Ajit K Dubey's four cross-linked 2024 posts presented as The Gen-AI series: featured at the top of the blog, each post labelled with its part, a series list with the current part marked, and a pager that walks the series in order; linked from the Research page. Deployed 2026-09-28 as a draft on timely-quokka, verified, then published by promoting that same deploy; production verified identical to this folder, redirects re-checked, smoke-tested. |
-| **v17** | 2026-09-29 | [timely-quokka-fa2399 (draft 6abc477283e198e2f4a83ca8)](https://6abc477283e198e2f4a83ca8--timely-quokka-fa2399.netlify.app) | Infrastructure for agentic lifecycles. | 50 | 132 | **CURRENT - the team from the old About page (draft).** v16 with the Company team rebuilt from openexa.com/status/: ten team members and three advisors, each with an expandable full description. Barnet Sherman removed (now a customer), with blog collection 04 (his municipal-markets columns); blog now 29 posts. No patent count on Ajit's profile. Proof page stat is 5 runs / lifecycle executions and $5M committed is gone from the site. Deployed 2026-09-29 as a draft on timely-quokka and verified; production still serves v16 until the draft is published. |
+| **v17** | 2026-09-29 | [timely-quokka-fa2399](https://timely-quokka-fa2399.netlify.app) | Infrastructure for agentic lifecycles. | 50 | 132 | **CURRENT - the team from the old About page.** v16 with the Company team rebuilt from openexa.com/status/: ten team members and three advisors, each with an expandable full description. Barnet Sherman removed (now a customer), with blog collection 04 (his municipal-markets columns); blog now 29 posts. No patent count on Ajit's profile. Proof page stat is 5 runs / lifecycle executions and $5M committed is gone from the site. Deployed 2026-09-29 as a draft on timely-quokka, verified, then published by promoting that same deploy; production verified identical to this folder, redirects re-checked, smoke-tested. |
 
 ## How the copies were made
 
@@ -47,7 +45,7 @@ v8 was taken from the local source folder and verified against the live deploy: 
 byte-identical and all 9 pages are identical apart from Netlify's link re-serialization.
 
 v9 and v10 were built locally and each was verified identical to its live deploy after upload (assets byte-for-byte,
-pages apart from Netlify's link rewriting); v11, v12, v14, v15 and v16 likewise, on timely-quokka.
+pages apart from Netlify's link rewriting); v11, v12, v14, v15, v16 and v17 likewise, on timely-quokka.
 
 Each archived version was then opened in a browser from this folder: v1-v5 and v7-v17 load with zero console
 errors and no missing files. v6 fails exactly as the live deploy does, because its assets were never uploaded.
